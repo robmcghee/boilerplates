@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article">
+            <div type="article" xml:lang="fr">
                 <head>DERNIERE HEURE</head>
                 <p>(Clôture de la Bourse Khédiviale 1h. p.m.) </p>
                 <p>Cours de l’Association des Courtiers en Marchandises </p>

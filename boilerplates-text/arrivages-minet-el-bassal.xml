@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="section" scope="financial">
+            <div type="section" scope="financial" xml:lang="fr">
                 <head>ARRIVAGES A MINET-EL-BASSAL</head>
                 <p>du mois de juillet 1904</p>
                     <table rows="31" cols="7">

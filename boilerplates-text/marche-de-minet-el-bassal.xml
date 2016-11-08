@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-             <div type="section" scope="financial">
+            <div type="section" scope="financial" xml:lang="fr">
                     <head>MARCHE DE MINET-EL-BASSAL</head>
                     <dateline>12 juillet 1905.—(11h.55 a.m.)</dateline>
                     <p><hi rend="italic">Cotons</hi> —Clôture du marché du 11 juillet: Ferme et en
@@ -49,7 +49,7 @@
                     <p>Mit-Afifi—58 Rien </p>
                     <p>Haute-Egypte.—56 1/2 Rien</p>
                     <p><hi rend="italic">Blés</hi>.—Très fermes</p>
-                    <p><hi rend="italic">Qualité Saïdi</hi>.—Cond. Saha P.T. <measure unit="">—</measure> à —</p>
+                    <p><hi rend="italic">Qualité Saïdi</hi>.—Cond. Saha P.T. <measure>—</measure> à —</p>
                     <p><hi rend="italic">" Béhéra</hi>: " " " 110 à 120</p>
                     <p><hi rend="italic">Feves</hi>.—En baisse</p>
                     <p><hi rend="italic">Saïdi</hi> 95</p>

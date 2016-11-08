@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article" scope="financial">
+            <div type="article" scope="financial" xml:lang="fr">
                 <head>COTONS</head>
                 <p>copie de la dépêche</p>
                 <p>DE L'ALEXANDRIA GENERAL PRODUCE ASSOCIATION</p>

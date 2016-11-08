@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article">
+            <div type="article" xml:lang="fr">
                 <head>PRIMES DES CONTRATS</head>
                 <table cols="6">
                     <row>

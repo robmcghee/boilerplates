@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article">
+            <div type="article" xml:lang="fr">
                 <head>TELEGRAMME HAVAS</head>
                 <dateline>BOURSE du <date when="1905-07-11">11 juillet 1905</date></dateline>
                 <p>COURS DES VALEURS A TERMS, CLOTURE</p>

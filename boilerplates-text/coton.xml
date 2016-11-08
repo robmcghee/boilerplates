@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article" scope="financial">
+            <div type="article" scope="financial" xml:lang="fr">
                 <head>COTON</head>
                 <p>Exportation du mois de juin 1905</p>
                 <table cols="2">

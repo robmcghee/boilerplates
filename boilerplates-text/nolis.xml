@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="financial">
+            <div type="item" scope="financial" xml:lang="fr">
                 <head>NOLIS</head>
                 <table cols="3">
                     <row>

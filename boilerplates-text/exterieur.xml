@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article">
+            <div type="article" xml:lang="fr">
                 <head>Exterieur</head>
                 <p>Dépêches particulières du 11 juillet 1905</p>
                 <p>PRODUITS EGYPTIENS</p>

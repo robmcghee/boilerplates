@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article">
+            <div type="article" xml:lang="fr">
                 <head>ASSOCIATION DES COURTIERS EN MARCHANISES</head>
                 <p>Le comité de l'Association des Courtiers en Marchandises a fixé comme suit, pour
                     ce jour, le prix de compensation extraordinaire : </p>
