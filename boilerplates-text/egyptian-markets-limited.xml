@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Egyptian Markets, Limited template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-11-03">November 3, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-12">12 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <head>EGYPTIAN MARKETS, LIMITED</head>
+                <table>
+                    <head>Approximative Returns</head>
+                    <row role="label">
+                        <cell/>
+                        <cell>Week ended <date when="1905-06-29">June 29, 1905</date>.</cell>
+                        <cell>same period 1904</cell>
+                    </row>
+                    <row>
+                        <cell>Cattle markets</cell>
+                        <cell>L.E. <measure unit="LE">264</measure></cell>
+                        <cell>L.E. <measure unit="LE">314</measure></cell>
+                    </row>
+                    <row>
+                        <cell>General markets</cell>
+                        <cell>„ <measure unit="LE">210</measure></cell>
+                        <cell>„ <measure unit="LE">208</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Tot. for 120 markets</cell>
+                        <cell>„ <measure unit="LE">474</measure></cell>
+                        <cell>„ <measure unit="LE">522</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="2">Tot. returns for current year date</cell>
+                        <cell>L.E. <measure unit="LE">13,677</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="2">,, ,, same period last year</cell>
+                        <cell>„ <measure unit="LE">15,402</measure></cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>
