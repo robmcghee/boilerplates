@@ -33,26 +33,28 @@
                 <head>ASSOCIATION DES COURTIERS EN MARCHANISES</head>
                 <p>Le comité de l'Association des Courtiers en Marchandises a fixé comme suit, pour
                     ce jour, le prix de compensation extraordinaire : </p>
-                <p>Coton F.G.F.Br.</p>
                 <table rows="5" cols="5">
+                    <row role="label">
+                        <cell cols="5"><hi rend="italic">Coton F.G.F.Br.</hi></cell>
+                    </row>
                     <row>
                         <cell>Novembre</cell>
                         <cell>Tal.</cell>
-                        <cell><measure unit="tal">15 1/4</measure></cell>
+                        <cell><measure unit="tal">14 5/8</measure></cell>
                         <cell>à</cell>
                         <cell><measure unit="tal">—</measure></cell>
                     </row>
                     <row>
                         <cell>Janvier</cell>
                         <cell>"</cell>
-                        <cell><measure unit="tal">15 1/8</measure></cell>
+                        <cell><measure unit="tal">14 9/16</measure></cell>
                         <cell>,,</cell>
                         <cell><measure unit="tal">—</measure></cell>
                     </row>
                     <row>
                         <cell>Mars</cell>
                         <cell>"</cell>
-                        <cell><measure unit="tal">15 5/16</measure></cell>
+                        <cell><measure unit="tal">14 11/16</measure></cell>
                         <cell>,,</cell>
                         <cell><measure unit="tal">—</measure></cell>
                     </row>
@@ -66,15 +68,49 @@
                     <row>
                         <cell>Août</cell>
                         <cell>"</cell>
-                        <cell><measure unit="tal">15 3/16</measure></cell>
+                        <cell><measure unit="tal">15 1/16</measure></cell>
                         <cell>,,</cell>
                         <cell><measure unit="tal">—</measure></cell>
                     </row>
+                    <row role="label">
+                        <cell cols="5"><hi rend="italic">Grains de coton</hi></cell>
+                    </row>
+                    <row>
+                        <cell>N.-D.-J.</cell>
+                        <cell>P.T.</cell>
+                        <cell><measure unit="pt">61 30/40</measure></cell>
+                        <cell>à</cell>
+                        <cell><measure unit="pt">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Juillet</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="pt">60 --</measure></cell>
+                        <cell>"</cell>
+                        <cell><measure unit="pt">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Août</cell>
+                        <cell>"</cell>
+                        <cell><measure unit="pt">60 3/4</measure></cell>
+                        <cell>"</cell>
+                        <cell><measure unit="pt">—</measure></cell>
+                    </row>
+                    <row role="label">
+                        <cell cols="5"><hi rend="italic">Fèves-Saïdi</hi></cell>
+                    </row>
+                    <row>
+                        <cell>Sept.-Oct.</cell>
+                        <cell>P.T.</cell>
+                        <cell><measure unit="pt">95 —</measure></cell>
+                        <cell>à</cell>
+                        <cell><measure unit="pt">—</measure></cell>
+                    </row>
                 </table>
-                <p>Bourse Khédiviale, le <date>7 juillet 1905</date>.</p>
+                <p>Bourse Khédiviale, le <date when="1905-07-07">7 juillet 1905</date>.</p>
                 <p>N.B.—Dans cette liquidation sont comprises les opérations jusqu'à 1h. p.m. de ce
                     jour.</p>
-                <p>Paiement <date>le lundi 10 courant</date>.</p>
+                <p>Paiement <date when="1905-07-10">le lundi 10 courant</date>.</p>
             </div>
         </body>
     </text>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Mouvement Maritime template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2015-11-16">November 2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-12">12 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article" xml:lang="fr">
+                <head>MOUVEMENT MARITIME DU PORT D’ALEXANDRIE</head>
+                <p>ARRIVÉES</p>
+                <p><date when="1905-07-12">12 juillet</date></p>
+                <p><placeName>Odessa</placeName> et <placeName>Sude</placeName>; 1 j., vap. russe
+                    Tzaritza, cap. <persName>Roller</persName>, ton. <measure unit="ton"
+                        >1,727</measure>, à la Cie Russe.</p>
+                <p><placeName>Gènes</placeName> et <placeName>Toulon</placeName> ; 10 j., 1/2, vap.
+                    ital. Jeanne Marcelle, cap. <persName>Passaton</persName>, ton. <measure
+                        unit="ton">1,674</measure>, à Luxardo.</p>
+                <p><date when="1905-07-13">13 juillet</date></p>
+                <p><placeName>Londres</placeName> et <placeName>Tripoli</placeName>; 4 j., 3/4, vap.
+                    angl. Kaffir Prince, cap. <persName>Wright</persName>, ton. <measure unit="ton"
+                        >1402</measure>, à Grace &amp; Co.</p>
+                <p><placeName>Syrie</placeName> et <placeName>Port-Saïd</placeName>; 16 h., vap.
+                    ang. El Kahira, cap. <persName>Silvestri</persName>, ton. <measure unit="ton"
+                        >848</measure>, à la Khedivial Mail.</p>
+                <p><placeName>Cardiff</placeName>; 14 j. 1/2, vap. ang. Chiverstone, cap.
+                        <persName>Dwyer</persName>, ton. <measure unit="ton">1889</measure>, à
+                    ordre.</p>
+                <p><placeName>Beyrouth</placeName> et <placeName>Port-Saïd</placeName> ; 16 h.,
+                    vapour français Sénégal, cap. Vincenti, ton. <measure unit="ton"
+                    >2,235</measure>, aux Messageries Maritimes.</p>
+                <p>DÉPARTS</p>
+                <p><date when="1905-07-12">12 juillet</date></p>
+                <p><placeName>Pirée</placeName> et <placeName>Constantinople</placeName> : vap. ang.
+                    Ismailieh, cap. <persName>Gatteschi</persName>.</p>
+                <p><placeName>Hull</placeName>; vap. ang. Lorenzo, cap.
+                    <persName>Wing</persName>.</p>
+                <p><placeName>Jaffa</placeName>; vap. ott, Marigo, cap.
+                        <persName>Cofupandelis</persName>, sur lest.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

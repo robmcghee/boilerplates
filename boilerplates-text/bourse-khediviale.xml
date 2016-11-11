@@ -28,20 +28,20 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article" scope="financial">
+            <div type="article" scope="financial" xml:lang="fr">
                 <head>BOURSE KHEDIVIALE</head>
                 <p>CONTRATS</p>
                 <p>Fluctuations de 9h.30 à 1h. p.m.</p>
                 <p>
                     <hi rend="italic">Cotons F.G.F.Br.</hi>
                 </p>
-                <p>Dans la matinée; prix plus haut pour juillet tal. 14 7/ à —/— ; plus bas pour
-                    juillet 14 3/4 à — /—. </p>
+                <p>Dans la matinée; prix plus haut pour juillet tal. <measure unit="tal">14 7/</measure> à <measure unit="tal">—/—</measure> ; plus bas pour
+                    juillet <measure unit="tal">14 3/4</measure> à <measure unit="tal">— /—</measure>. </p>
                 <p>
                     <hi rend="italic">Grains de coton</hi>
                 </p>
-                <p>Dans la matinée ; prix plus haut pour juil. P.T. 59 10/40 à —/—: plus bas pour
-                    juil. 58 35/40 à —/—. </p>
+                <p>Dans la matinée ; prix plus haut pour juil. P.T. <measure unit="pt">59 10/40</measure> à <measure unit="pt">—/—</measure>: plus bas pour
+                    juil. <measure unit="pt">58 35/40</measure> à <measure unit="pt">—/—</measure>. </p>
                 <p>Remarques</p>
                 <p>(De Midi à 1h. p.m.)</p>
                 <p>Cotons.—<!-- Fill --></p>
@@ -71,7 +71,7 @@
                     <row>
                         <cell>Seti</cell>
                         <cell>Liverpool</cell>
-                        <cell>100</cell>
+                        <cell><measure unit="ton">100</measure></cell>
                     </row>
                 </table>
                 <table rows="2" cols="3">
@@ -88,7 +88,7 @@
                     </row>
                 </table>
                 <p>Fèves.—<!-- Fill --></p>
-                <p>Bourse Khédviale, le 11 juillet 1905.</p>
+                <p>Bourse Khédviale, le <date when="1905-07-11">11 juillet 1905</date>.</p>
             </div>
         </body>
     </text>

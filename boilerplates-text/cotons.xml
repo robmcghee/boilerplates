@@ -35,50 +35,58 @@
                 <p>à la</p>
                 <p>LIVERPOOL COTTON ASSOCIATION</p>
                 <p>(Cours pratiqués ce jour à la Bourse Khédiviale à 9h. 45 a.m.) </p>
-                <table rows="5" cols="2">
-                    <row role="label">
-                        <cell>Tal.</cell>
-                        <cell>Livraison</cell>
-                    </row>
+                <table rows="4" cols="4">
                     <row>
-                        <cell>FILL</cell>
+                        <cell>Tal.</cell>
+                        <cell><measure unit="tal">14 7/8</measure></cell>
+                        <cell>Livraison</cell>
                         <cell>Juillet</cell>
                     </row>
                     <row>
-                        <cell>FILL</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="tal">15 3/16</measure></cell>
+                        <cell>,,</cell>
                         <cell>Août</cell>
                     </row>
                     <row>
-                        <cell>FILL</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="tal">14 23/32</measure></cell>
+                        <cell>,,</cell>
                         <cell>Novembre</cell>
                     </row>
                     <row>
-                        <cell>FILL</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="tal">14 5/8</measure></cell>
+                        <cell>,,</cell>
                         <cell>Janvier</cell>
                     </row>
                 </table>
                 <p>Marché ferme</p>
-                <p>Arrivages de ce jour, à Minet-el-Basaal, cantars FILL</p>
+                <p>Arrivages de ce jour, à Minet-el-Bassal, cantars <measure unit="cantar">1008</measure></p>
                 <p>(Cours pratiqués ce jour à la Bourse Khédiviale à 12h. 45 p.m.)</p>
-                <table rows="5" cols="2">
-                    <row role="label">
-                        <cell>Tal.</cell>
-                        <cell>Livraison</cell>
-                    </row>
+                <table rows="4" cols="4">
                     <row>
-                        <cell>FILL</cell>
+                        <cell>Tal.</cell>
+                        <cell><measure unit="tal">14 15/16</measure></cell>
+                        <cell>Livraison</cell>
                         <cell>Juillet</cell>
                     </row>
                     <row>
-                        <cell>FILL</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="tal">15 1/4</measure></cell>
+                        <cell>,,</cell>
                         <cell>Août</cell>
                     </row>
                     <row>
-                        <cell>FILL</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="tal">14 7/8</measure></cell>
+                        <cell>,,</cell>
                         <cell>Novembre</cell>
                     </row>
                     <row>
-                        <cell>FILL</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="tal">14 25/32</measure></cell>
+                        <cell>,,</cell>
                         <cell>Janvier</cell>
                     </row>
                 </table>

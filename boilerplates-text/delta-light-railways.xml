@@ -91,7 +91,7 @@
                         <cell><measure unit="LE">—</measure></cell>
                     </row>
                 </table>
-                <p>*Week ended <date>25th June 1904</date>.</p>
+                <p>*Week ended <date when="1904-06-25">25th June 1904</date>.</p>
                 <table cols="5">
                     <head>HELOUAN BRANCH</head>
                     <row>

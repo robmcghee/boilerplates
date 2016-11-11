@@ -158,47 +158,47 @@
                     <row>
                         <cell>Wheat </cell>
                         <cell>Ard.</cell>
-                        <cell><measure>3000</measure></cell>
+                        <cell><measure unit="ard">3000</measure></cell>
                     </row>
                     <row>
                         <cell>Beans</cell>
                         <cell>,,</cell>
-                        <cell><measure>2000</measure></cell>
+                        <cell><measure unit="ard">2000</measure></cell>
                     </row>
                     <row>
                         <cell>Lentils</cell>
                         <cell>,,</cell>
-                        <cell><measure>100</measure></cell>
+                        <cell><measure unit="ard">100</measure></cell>
                     </row>
                     <row>
                         <cell>Barley</cell>
                         <cell>,,</cell>
-                        <cell><measure>300</measure></cell>
+                        <cell><measure unit="ard">300</measure></cell>
                     </row>
                     <row>
                         <cell>,, Mariuti</cell>
                         <cell>,,</cell>
-                        <cell><measure>500</measure></cell>
+                        <cell><measure unit="ard">500</measure></cell>
                     </row>
                     <row>
                         <cell>,, Hamawi</cell>
                         <cell>,,</cell>
-                        <cell><measure>400</measure></cell>
+                        <cell><measure unit="ard">400</measure></cell>
                     </row>
                     <row>
                         <cell>Dura Shami</cell>
                         <cell>,,</cell>
-                        <cell><measure>—</measure></cell>
+                        <cell><measure unit="ard">—</measure></cell>
                     </row>
                     <row>
                         <cell>,, Rafia</cell>
                         <cell>,,</cell>
-                        <cell><measure>—</measure></cell>
+                        <cell><measure unit="ard">—</measure></cell>
                     </row>
                     <row>
                         <cell>Helba</cell>
                         <cell>,,</cell>
-                        <cell><measure>300</measure></cell>
+                        <cell><measure unit="ard">300</measure></cell>
                     </row>
                 </table>
             </div>

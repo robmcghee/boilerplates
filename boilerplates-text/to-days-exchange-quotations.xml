@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article">
+            <div type="article" scope="financial">
                 <head>TO-DAY’S EXCHANGE QUOTATIONS</head>
                 <table rows="14" cols="3">
                     <row role="label">
@@ -38,68 +38,68 @@
                     </row>
                     <row>
                         <cell>London cheque</cell>
-                        <cell>97 9/16</cell>
-                        <cell>97 15/16</cell>
+                        <cell><measure unit="£">97 9/16</measure></cell>
+                        <cell><measure unit="£">97 15/16</measure></cell>
                     </row>
                     <row>
                         <cell>" 3m. bank paper</cell>
-                        <cell>97 1/16</cell>
-                        <cell>97 3/8</cell>
+                        <cell><measure unit="£">97 1/16</measure></cell>
+                        <cell><measure unit="£">97 3/8</measure></cell>
                     </row>
                     <row>
                         <cell>" 3m. house paper</cell>
-                        <cell>96 15/16</cell>
-                        <cell>— —</cell>
+                        <cell><measure unit="£">96 15/16</measure></cell>
+                        <cell><measure unit="£">— —</measure></cell>
                     </row>
                     <row>
                         <cell>Paris cheque</cell>
-                        <cell>388 —</cell>
-                        <cell>389 ½</cell>
+                        <cell><measure unit="fcs">388 —</measure></cell>
+                        <cell><measure unit="fcs">389 ½</measure></cell>
                     </row>
                     <row>
                         <cell>" 3m. bank paper</cell>
-                        <cell>386 ¼</cell>
-                        <cell>387 ½</cell>
+                        <cell><measure unit="fcs">386 ¼</measure></cell>
+                        <cell><measure unit="fcs">387 ½</measure></cell>
                     </row>
                     <row>
                         <cell>" 3m. house paper</cell>
-                        <cell>385 ¾</cell>
-                        <cell>— —</cell>
+                        <cell><measure unit="fcs">385 ¾</measure></cell>
+                        <cell><measure unit="fcs">— —</measure></cell>
                     </row>
                     <row>
                         <cell>Switzerland cheque</cell>
-                        <cell>386 ½</cell>
-                        <cell>388 ¾</cell>
+                        <cell><measure unit="fcs">386 ½</measure></cell>
+                        <cell><measure unit="fcs">388 ¾</measure></cell>
                     </row>
                     <row>
                         <cell>3m. bank paper</cell>
-                        <cell>384 — </cell>
-                        <cell> — —</cell>
+                        <cell><measure unit="fcs">384 —</measure></cell>
+                        <cell><measure unit="fcs">— —</measure></cell>
                     </row>
                     <row>
                         <cell>Germany cheque</cell>
-                        <cell>476 ¼</cell>
-                        <cell>478 —</cell>
+                        <cell><measure>476 ¼</measure></cell>
+                        <cell><measure>478 —</measure></cell>
                     </row>
                     <row>
                         <cell>" 3m bank paper </cell>
-                        <cell>473 ¼</cell>
-                        <cell>— — </cell>
+                        <cell><measure>473 ¼</measure></cell>
+                        <cell><measure>— —</measure></cell>
                     </row>
                     <row>
                         <cell>Italian cheque</cell>
-                        <cell>388 — </cell>
-                        <cell>390 —  </cell>
+                        <cell><measure>388 —</measure></cell>
+                        <cell><measure>390 —</measure></cell>
                     </row>
                     <row>
                         <cell>Vienna &amp; Trieste cheque</cell>
-                        <cell>406 — </cell>
-                        <cell>407 ¼</cell>
+                        <cell><measure>406 —</measure></cell>
+                        <cell><measure>407 ¼</measure></cell>
                     </row>
                     <row>
                         <cell>Constantinople cheque</cell>
-                        <cell>88 7/8</cell>
-                        <cell>89 5/16</cell>
+                        <cell><measure>88 7/8</measure></cell>
+                        <cell><measure>89 5/16</measure></cell>
                     </row>
                 </table>
                 <p> *Less one per mille brokerage.</p>
