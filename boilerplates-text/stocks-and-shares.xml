@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article">
+            <div type="article" xml:id="deg-stocks-and-shares">
                 <head>STOCKS AND SHARES</head>
                 <p>
                     <hi rend="italic">Closing Prices, to-day at 1 p.m.</hi>
