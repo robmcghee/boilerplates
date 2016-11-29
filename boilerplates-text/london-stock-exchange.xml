@@ -151,10 +151,7 @@
                         <cell>National Banks New</cell>
                         <cell><measure>6 ¼</measure></cell>
                         <cell>,,</cell>
-                        <cell><measure>— ½</measure></cell>
-                    </row>
-                    <row>
-                        <cell cols="4"> pm</cell>
+                        <cell><measure>— ½</measure>pm</cell>
                     </row>
                     <row>
                         <cell>Agricultural Banks</cell>
@@ -244,19 +241,13 @@
                         <cell>Corporation of Western Egypt</cell>
                         <cell><measure>— ¼</measure></cell>
                         <cell>,,</cell>
-                        <cell><measure>— 3/8</measure></cell>
-                    </row>
-                    <row>
-                        <cell cols="4">pm</cell>
+                        <cell><measure>— 3/8</measure>pm</cell>
                     </row>
                     <row>
                         <cell>United Africans</cell>
                         <cell><measure>1 ¼</measure></cell>
                         <cell>,,</cell>
-                        <cell><measure>— 3/8</measure></cell>
-                    </row>
-                    <row>
-                        <cell cols="4">pm</cell>
+                        <cell><measure>— 3/8</measure>pm</cell>
                     </row>
                     <row>
                         <cell>Egypt. Invest &amp; Agency </cell>
@@ -268,10 +259,7 @@
                         <cell>Egyptian Estates </cell>
                         <cell><measure>— 1/8</measure> dis.</cell>
                         <cell>,,</cell>
-                        <cell><measure>— 3/8</measure></cell>
-                    </row>
-                    <row>
-                        <cell cols="4">pm</cell>
+                        <cell><measure>— 3/8</measure>pm</cell>
                     </row>
                 </table>
             </div>

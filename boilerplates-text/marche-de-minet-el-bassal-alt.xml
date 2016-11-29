@@ -34,143 +34,33 @@
                 <p><hi rend="italic">Cotons</hi> —Clôture du marché du <date when="1905-07-11">11 juillet</date>: Ferme et en
                     hausse de 1/8. </p>
                 <table cols="6" xml:id="deg-ta-mmeb01">
-                    <row role="label"><cell cols="6">BEURRES</cell></row>
-                    <row>
-                        <cell>Fair,</cell>
-                        <cell>Tal.</cell>
-                        <cell><measure unit="tal">12 1/2</measure></cell>
-                        <cell>soit</cell>
-                        <cell><measure unit="tal">5/8</measure></cell>
-                        <cell>de hausse</cell>
+                    <row role="label">
+                        <cell cols="6">BEURRES</cell>
                     </row>
                     <row>
-                        <cell>Fully Fair,</cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">13 1/2</measure></cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">1/2</measure></cell>
-                        <cell>,,</cell>
+                        <cell>Fair, Fully Fair, Good Fair, Fully Good Fair et Good:</cell>
+                        <cell>Sans changement</cell>
+                    </row>
+                    <row role="label">
+                        <cell cols="6">HAUTE-EGYPTE ET FAYOUM</cell>
                     </row>
                     <row>
-                        <cell>Good Fair,</cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">14 1/2</measure></cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">3/8</measure></cell>
-                        <cell>,,</cell>
+                        <cell>Fair, Fully Fair, Good Fair, Fully Good Fair et Good:</cell>
+                        <cell>Sans changement</cell>
+                    </row>
+                    <row role="label">
+                        <cell cols="6">ABASSI</cell>
                     </row>
                     <row>
-                        <cell>Fully Good Fair,</cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">15 1/4</measure></cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">3/8</measure></cell>
-                        <cell>,,</cell>
+                        <cell>2me qualité, 1re qualité, extra:</cell>
+                        <cell>Sans changement</cell>
+                    </row>
+                    <row role="label">
+                        <cell cols="6">IANNOVICH</cell>
                     </row>
                     <row>
-                        <cell>Good,</cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">16</measure></cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">3/8</measure></cell>
-                        <cell>,,</cell>
-                    </row>
-                    <row role="label"><cell cols="6">HAUTE-EGYPTE ET FAYOUM</cell></row>
-                    <row>
-                        <cell>Fair,</cell>
-                        <cell>Tal.</cell>
-                        <cell><measure unit="tal">11</measure></cell>
-                        <cell>soit</cell>
-                        <cell><measure unit="tal">1/2</measure></cell>
-                        <cell>de hausse</cell>
-                    </row>
-                    <row>
-                        <cell>Fully Fair,</cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">11 3/4</measure></cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">1/4</measure></cell>
-                        <cell>,,</cell>
-                    </row>
-                    <row>
-                        <cell>Good Fair,</cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">12 1/4</measure></cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">1/2</measure></cell>
-                        <cell>,,</cell>
-                    </row>
-                    <row>
-                        <cell>Fully Good Fair,</cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">13</measure></cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">1/2</measure></cell>
-                        <cell>,,</cell>
-                    </row>
-                    <row>
-                        <cell>Good,</cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">13 3/4</measure></cell>
-                        <cell>,,</cell>
-                        <cell><measure unit="tal">1/2</measure></cell>
-                        <cell>,,</cell>
-                    </row>
-                    <row role="label"><cell cols="6">ABASSI</cell></row>
-                    <row>
-                        <cell>Fully Good Fair,</cell>
-                        <cell>Tal.</cell>
-                        <cell><measure unit="tal">14</measure> à <measure unit="tal">14
-                                1/4</measure></cell>
-                        <cell>soit</cell>
-                        <cell><measure unit="tal">1/2</measure></cell>
-                        <cell>de hausse</cell>
-                    </row>
-                    <row>
-                        <cell>Good,</cell>
-                        <cell>tal.</cell>
-                        <cell><measure unit="tal">15 1/2</measure> à <measure unit="tal"
-                                >16</measure></cell>
-                        <cell>soit</cell>
-                        <cell><measure unit="tal">3/8</measure></cell>
-                        <cell>,,</cell>
-                    </row>
-                    <row>
-                        <cell>Extra,</cell>
-                        <cell>tal.</cell>
-                        <cell><measure unit="tal">16 3/4</measure> à <measure unit="tal"
-                                >17</measure></cell>
-                        <cell>soit</cell>
-                        <cell><measure unit="tal">3/8</measure></cell>
-                        <cell>,,</cell>
-                    </row>
-                    <row role="label"><cell cols="6">IANNOVICH</cell></row>
-                    <row>
-                        <cell>Fully Good Fair,</cell>
-                        <cell>Tal.</cell>
-                        <cell><measure unit="tal">15 1/4</measure> à <measure unit="tal">15
-                                1/2</measure></cell>
-                        <cell>soit</cell>
-                        <cell><measure unit="tal">1/4</measure></cell>
-                        <cell>de hausse</cell>
-                    </row>
-                    <row>
-                        <cell>Good,</cell>
-                        <cell>tal.</cell>
-                        <cell><measure unit="tal">16</measure> à <measure unit="tal">16
-                                1/2</measure></cell>
-                        <cell>soit</cell>
-                        <cell><measure unit="tal">1/2</measure></cell>
-                        <cell>de hausse</cell>
-                    </row>
-                    <row>
-                        <cell>Extra,</cell>
-                        <cell>tal.</cell>
-                        <cell><measure unit="tal">17</measure> à <measure unit="tal">17
-                                1/2</measure></cell>
-                        <cell>soit</cell>
-                        <cell><measure unit="tal">1/2</measure></cell>
-                        <cell>de hausse</cell>
+                        <cell>2me qualité, 1re qualité, extra:</cell>
+                        <cell>Sans changement</cell>
                     </row>
                 </table>
                 <p>Etat du marché de ce jour, cotons : Ferme</p>
