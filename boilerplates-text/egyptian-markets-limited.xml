@@ -28,9 +28,9 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article">
+            <div type="article" xml:id="deg-el-egml01">
                 <head>EGYPTIAN MARKETS, LIMITED</head>
-                <table>
+                <table xml:id="deg-ta-egml01">
                     <head>Approximative Returns</head>
                     <row role="label">
                         <cell/>

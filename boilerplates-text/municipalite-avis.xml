@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="section" scope="municipality" xml:lang="fr">
+            <div type="section" scope="municipality" xml:lang="fr" xml:id="deg-el-maav01">
                 <head>Municipalité d'Alexandrie</head>
                 <div type="item">
                     <head>AVIS</head>

@@ -28,11 +28,11 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article">
+            <div type="article" scope="financial" xml:id="deg-el-lsex01">
                 <head>LONDON STOCK EXCHANGE.</head>
                 <head type="sub">Prices on <date when="1905-07-07">Friday, July 7,
                     1905</date>.</head>
-                <table cols="4">
+                <table cols="4" xml:id="deg-ta-lsex01">
                     <row>
                         <cell>Consols a/c</cell>
                         <cell><measure>90 1/8</measure></cell>

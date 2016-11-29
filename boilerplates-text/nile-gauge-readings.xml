@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Nile Gauge Readings template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2015-11-16">November 2015</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-10">10 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" xml:id="deg-el-nile01">
+                <head>NILE GAUGE READINGS</head>
+                <table cols="21" xml:id="deg-ta-nile01">
+                    <row role="label">
+                        <cell/>
+                        <cell cols="2" rows="2">ROSARIES.</cell>
+                        <cell cols="2" rows="2">DUEM.</cell>
+                        <cell cols="2" rows="2">KHARTOUM.</cell>
+                        <cell cols="2" rows="2">BERBER.</cell>
+                        <cell cols="2" rows="2">WADI HALFA.</cell>
+                        <cell cols="4" rows="1">ASSOUAN RESERVOIR.</cell>
+                        <cell cols="4" rows="1">ASSIOUT WEIR.</cell>
+                        <cell cols="2" rows="2">RODA.</cell>
+                        <cell cols="2" rows="1">DELTA BARRAGE.</cell>
+                    </row>
+                    <row role="label">
+                        <cell/>
+                        <cell cols="2" rows="1">Up Stream.</cell>
+                        <cell cols="2" rows="1">Down Stream.</cell>
+                        <cell cols="2" rows="1">Up Stream.</cell>
+                        <cell cols="2" rows="1">Down Stream.</cell>
+                        <cell cols="2" rows="1">Up Stream.</cell>
+                    </row>
+                    <row role="label">
+                        <cell>July.</cell>
+                        <cell>1905</cell>
+                        <cell>1906</cell>
+                        <cell>1905</cell>
+                        <cell>1906</cell>
+                        <cell>1905</cell>
+                        <cell>1906</cell>
+                        <cell>1905</cell>
+                        <cell>1906</cell>
+                        <cell>1905</cell>
+                        <cell>1906</cell>
+                        <cell>1905</cell>
+                        <cell>1906</cell>
+                        <cell>1905</cell>
+                        <cell>1906</cell>
+                        <cell>1905</cell>
+                        <cell>1906</cell>
+                        <cell>1905</cell>
+                        <cell>1906</cell>
+                        <cell>1905</cell>
+                        <cell>1906</cell>
+                        <cell>1905</cell>
+                        <cell>1906</cell>
+                    </row>
+                    <row role="data">
+                        <cell><date when="1905-07-01">1</date></cell>
+                        <cell><measure>1.32</measure></cell>
+                        <cell><measure>3.84</measure></cell>
+                        <cell><measure>0.56</measure></cell>
+                        <cell><measure>0.50</measure></cell>
+                        <cell><measure>1.32</measure></cell>
+                        <cell><measure>1.35</measure></cell>
+                        <cell><measure>1.80</measure></cell>
+                        <cell><measure>1.95</measure></cell>
+                        <cell><measure>1.30</measure></cell>
+                        <cell><measure>2.19</measure></cell>
+                        <cell><measure>99.63</measure></cell>
+                        <cell><measure>91.25</measure></cell>
+                        <cell><measure>85.08</measure></cell>
+                        <cell><measure>85.90</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>45.55</measure></cell>
+                        <cell><measure>46.71</measure></cell>
+                        <cell><measure>11.01</measure></cell>
+                        <cell><measure>13.04</measure></cell>
+                        <cell><measure>14.47</measure></cell>
+                        <cell><measure>15.50</measure></cell>
+                    </row>
+                    <row role="data">
+                        <cell><date when="1905-07-02">2</date></cell>
+                        <cell><measure>1.37</measure></cell>
+                        <cell><measure>4.05</measure></cell>
+                        <cell><measure>0.59</measure></cell>
+                        <cell><measure>0.50</measure></cell>
+                        <cell><measure>1.34</measure></cell>
+                        <cell><measure>1.55</measure></cell>
+                        <cell><measure>1.83</measure></cell>
+                        <cell><measure>1.95</measure></cell>
+                        <cell><measure>1.30</measure></cell>
+                        <cell><measure>2.19</measure></cell>
+                        <cell><measure>99.63</measure></cell>
+                        <cell><measure>91.25</measure></cell>
+                        <cell><measure>85.08</measure></cell>
+                        <cell><measure>85.90</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>45.55</measure></cell>
+                        <cell><measure>46.71</measure></cell>
+                        <cell><measure>11.01</measure></cell>
+                        <cell><measure>13.04</measure></cell>
+                        <cell><measure>14.47</measure></cell>
+                        <cell><measure>15.50</measure></cell>
+                    </row>
+                    <row role="data">
+                        <cell><date when="1905-07-03">3</date></cell>
+                        <cell><measure>1.29</measure></cell>
+                        <cell><measure>3.92</measure></cell>
+                        <cell><measure>0.62</measure></cell>
+                        <cell><measure>0.51</measure></cell>
+                        <cell><measure>1.24</measure></cell>
+                        <cell><measure>1.79</measure></cell>
+                        <cell><measure>1.87</measure></cell>
+                        <cell><measure>1.95</measure></cell>
+                        <cell><measure>1.30</measure></cell>
+                        <cell><measure>2.19</measure></cell>
+                        <cell><measure>99.63</measure></cell>
+                        <cell><measure>91.25</measure></cell>
+                        <cell><measure>85.08</measure></cell>
+                        <cell><measure>85.90</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>45.55</measure></cell>
+                        <cell><measure>46.71</measure></cell>
+                        <cell><measure>11.01</measure></cell>
+                        <cell><measure>13.04</measure></cell>
+                        <cell><measure>14.47</measure></cell>
+                        <cell><measure>15.50</measure></cell>
+                    </row>
+                    <row role="data">
+                        <cell><date when="1905-07-04">4</date></cell>
+                        <cell><measure>1.29</measure></cell>
+                        <cell><measure>3.99</measure></cell>
+                        <cell><measure>0.64</measure></cell>
+                        <cell><measure>0.51</measure></cell>
+                        <cell><measure>1.25</measure></cell>
+                        <cell><measure>2.15</measure></cell>
+                        <cell><measure>1.92</measure></cell>
+                        <cell><measure>1.95</measure></cell>
+                        <cell><measure>1.30</measure></cell>
+                        <cell><measure>2.19</measure></cell>
+                        <cell><measure>99.63</measure></cell>
+                        <cell><measure>91.25</measure></cell>
+                        <cell><measure>85.08</measure></cell>
+                        <cell><measure>85.90</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>45.55</measure></cell>
+                        <cell><measure>46.71</measure></cell>
+                        <cell><measure>11.01</measure></cell>
+                        <cell><measure>13.04</measure></cell>
+                        <cell><measure>14.47</measure></cell>
+                        <cell><measure>15.50</measure></cell>
+                    </row>
+                    <row role="data">
+                        <cell><date when="1905-07-05">5</date></cell>
+                        <cell><measure>1.22</measure></cell>
+                        <cell><measure>3.21</measure></cell>
+                        <cell><measure>0.68</measure></cell>
+                        <cell><measure>0.51</measure></cell>
+                        <cell><measure>1.25</measure></cell>
+                        <cell><measure>2.40</measure></cell>
+                        <cell><measure>1.93</measure></cell>
+                        <cell><measure>1.95</measure></cell>
+                        <cell><measure>1.30</measure></cell>
+                        <cell><measure>2.19</measure></cell>
+                        <cell><measure>99.63</measure></cell>
+                        <cell><measure>91.25</measure></cell>
+                        <cell><measure>85.08</measure></cell>
+                        <cell><measure>85.90</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>45.55</measure></cell>
+                        <cell><measure>46.71</measure></cell>
+                        <cell><measure>11.01</measure></cell>
+                        <cell><measure>13.04</measure></cell>
+                        <cell><measure>14.47</measure></cell>
+                        <cell><measure>15.50</measure></cell>
+                    </row>
+                    <row role="data">
+                        <cell><date when="1905-07-06">6</date></cell>
+                        <cell><measure>1.25</measure></cell>
+                        <cell><measure>3.28</measure></cell>
+                        <cell><measure>0.71</measure></cell>
+                        <cell><measure>0.52</measure></cell>
+                        <cell><measure>1.25</measure></cell>
+                        <cell><measure>2.68</measure></cell>
+                        <cell><measure>1.93</measure></cell>
+                        <cell><measure>1.95</measure></cell>
+                        <cell><measure>1.30</measure></cell>
+                        <cell><measure>2.19</measure></cell>
+                        <cell><measure>99.63</measure></cell>
+                        <cell><measure>91.25</measure></cell>
+                        <cell><measure>85.08</measure></cell>
+                        <cell><measure>85.90</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>45.55</measure></cell>
+                        <cell><measure>46.71</measure></cell>
+                        <cell><measure>11.01</measure></cell>
+                        <cell><measure>13.04</measure></cell>
+                        <cell><measure>14.47</measure></cell>
+                        <cell><measure>15.50</measure></cell>
+                    </row>
+                    <row role="data">
+                        <cell><date when="1905-07-07">7</date></cell>
+                        <cell><measure>1.21</measure></cell>
+                        <cell><measure>3.50</measure></cell>
+                        <cell><measure>0.75</measure></cell>
+                        <cell><measure>0.52</measure></cell>
+                        <cell><measure>1.29</measure></cell>
+                        <cell><measure>2.76</measure></cell>
+                        <cell><measure>2.20</measure></cell>
+                        <cell><measure>1.95</measure></cell>
+                        <cell><measure>1.30</measure></cell>
+                        <cell><measure>2.19</measure></cell>
+                        <cell><measure>99.63</measure></cell>
+                        <cell><measure>91.25</measure></cell>
+                        <cell><measure>85.08</measure></cell>
+                        <cell><measure>85.90</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>45.55</measure></cell>
+                        <cell><measure>46.71</measure></cell>
+                        <cell><measure>11.01</measure></cell>
+                        <cell><measure>13.04</measure></cell>
+                        <cell><measure>14.47</measure></cell>
+                        <cell><measure>15.50</measure></cell>
+                    </row>
+                    <row role="data">
+                        <cell><date when="1905-07-08">8</date></cell>
+                        <cell><measure>1.27</measure></cell>
+                        <cell><measure>3.88</measure></cell>
+                        <cell><measure>0.79</measure></cell>
+                        <cell><measure>0.68</measure></cell>
+                        <cell><measure>1.36</measure></cell>
+                        <cell><measure>2.76</measure></cell>
+                        <cell><measure>2.52</measure></cell>
+                        <cell><measure>1.95</measure></cell>
+                        <cell><measure>1.30</measure></cell>
+                        <cell><measure>2.19</measure></cell>
+                        <cell><measure>99.63</measure></cell>
+                        <cell><measure>91.25</measure></cell>
+                        <cell><measure>85.08</measure></cell>
+                        <cell><measure>85.90</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>45.55</measure></cell>
+                        <cell><measure>46.71</measure></cell>
+                        <cell><measure>11.01</measure></cell>
+                        <cell><measure>13.04</measure></cell>
+                        <cell><measure>14.47</measure></cell>
+                        <cell><measure>15.50</measure></cell>
+                    </row>
+                    <row role="data">
+                        <cell><date when="1905-07-09">9</date></cell>
+                        <cell><measure>–</measure></cell>
+                        <cell><measure>3.80</measure></cell>
+                        <cell><measure>–</measure></cell>
+                        <cell><measure>0.68</measure></cell>
+                        <cell><measure>1.46</measure></cell>
+                        <cell><measure>2.74</measure></cell>
+                        <cell><measure>2.54</measure></cell>
+                        <cell><measure>1.95</measure></cell>
+                        <cell><measure>1.30</measure></cell>
+                        <cell><measure>2.19</measure></cell>
+                        <cell><measure>99.63</measure></cell>
+                        <cell><measure>91.25</measure></cell>
+                        <cell><measure>85.08</measure></cell>
+                        <cell><measure>85.90</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>47.17</measure></cell>
+                        <cell><measure>45.55</measure></cell>
+                        <cell><measure>46.71</measure></cell>
+                        <cell><measure>11.01</measure></cell>
+                        <cell><measure>13.04</measure></cell>
+                        <cell><measure>14.47</measure></cell>
+                        <cell><measure>15.50</measure></cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -28,13 +28,13 @@
     </teiHeader>
     <text>
         <body>
-            <div type="section" scope="financial" xml:lang="fr">
+            <div type="section" scope="financial" xml:lang="fr" xml:id="deg-el-mmeb01">
                 <head>MARCHE DE MINET-EL-BASSAL</head>
                 <dateline><date when="1905-07-12">12 juillet 1905</date>.—(11h.55 a.m.)</dateline>
                 <p><hi rend="italic">Cotons</hi> —Clôture du marché du 11 juillet: Ferme et en
                     hausse de 1/8. </p>
-                <table>
-                    <head>BEURRES</head>
+                <table cols="6" xml:id="deg-ta-mmeb01">
+                    <row role="label"><cell cols="6">BEURRES</cell></row>
                     <row>
                         <cell>Fair,</cell>
                         <cell>Tal.</cell>
@@ -75,9 +75,7 @@
                         <cell><measure unit="tal">3/8</measure></cell>
                         <cell>,,</cell>
                     </row>
-                </table>
-                <table>
-                    <head>HAUTE-EGYPTE ET FAYOUM</head>
+                    <row role="label"><cell cols="6">HAUTE-EGYPTE ET FAYOUM</cell></row>
                     <row>
                         <cell>Fair,</cell>
                         <cell>Tal.</cell>
@@ -118,9 +116,7 @@
                         <cell><measure unit="tal">1/2</measure></cell>
                         <cell>,,</cell>
                     </row>
-                </table>
-                <table>
-                    <head>ABASSI</head>
+                    <row role="label"><cell cols="6">ABASSI</cell></row>
                     <row>
                         <cell>Fully Good Fair,</cell>
                         <cell>Tal.</cell>
@@ -148,9 +144,7 @@
                         <cell><measure unit="tal">3/8</measure></cell>
                         <cell>,,</cell>
                     </row>
-                </table>
-                <table>
-                    <head>IANNOVICH</head>
+                    <row role="label"><cell cols="6">IANNOVICH</cell></row>
                     <row>
                         <cell>Fully Good Fair,</cell>
                         <cell>Tal.</cell>
@@ -185,7 +179,7 @@
                         unit="cantar">156</measure>
                 </p>
                 <p><hi rend="italic">Grains de coton</hi>.—Sans changement</p>
-                <table>
+                <table  xml:id="deg-ta-mmeb02">
                     <row>
                         <cell/>
                         <cell>Disponible</cell>
@@ -224,7 +218,7 @@
                 <p>Disponible : Rien</p>
                 <p>" Cond. Saha P.T. <measure unit="pt">100</measure> à <measure unit="pt"
                         >110</measure></p>
-                <table rows="4" cols="3">
+                <table rows="4" cols="3" xml:id="deg-ta-mmeb03">
                     <row role="label">
                         <cell>Exportation</cell>
                         <cell>du <date when="1905-07-11">11 juil.</date></cell>
@@ -246,7 +240,7 @@
                         <cell>" <measure unit="ard">7461</measure></cell>
                     </row>
                 </table>
-                <table rows="4" cols="3">
+                <table rows="4" cols="3" xml:id="deg-ta-mmeb04">
                     <head>Exportations probables de la semaine:</head>
                     <row role="label">
                         <cell/>
@@ -269,7 +263,7 @@
                         <cell><measure unit="ard">2,000</measure></cell>
                     </row>
                 </table>
-                <table cols="5">
+                <table cols="5" xml:id="deg-ta-mmeb05">
                     <head>Les prix suivants ont été pratiqués ce jour</head>
                     <head>COTON C.M.E. (Basse-Egypte)</head>
                     <row role="label">
@@ -314,7 +308,7 @@
                         <cell><measure unit="pt">277 ½</measure></cell>
                     </row>
                 </table>
-                <table cols="5">
+                <table cols="5" xml:id="deg-ta-mmeb06">
                     <head>SECTION DES GRAINES ET CEREALES</head>
                     <row role="label">
                         <cell>PRIX FRANCO-STATION :</cell>
@@ -354,7 +348,7 @@
                     <head>ARRIVAGES</head>
                     <dateline>de <date when="1905-07-12">mercredi 12 juillet 1905</date></dateline>
                     <p>Documents de l’ “Alexandria General Produce Association.”</p>
-                    <table rows="9" cols="4">
+                    <table rows="9" cols="4"  xml:id="deg-ta-mmeb07">
                         <row role="label">
                             <cell/>
                             <cell cols="2">CHEMINS DE FER</cell>
@@ -422,7 +416,7 @@
                             when="1904-09-01">1er septembre 1904</date> jusqu’à ce jour, Ard.
                             <measure unit="ard">3,503,332</measure></p>
                     <p>Contre même jour en 1904 :</p>
-                    <table rows="9" cols="2">
+                    <table rows="9" cols="2" xml:id="deg-ta-mmeb08">
                         <row role="label">
                             <cell/>
                             <cell cols="2">BARQUES ET CHEMINS DE FER</cell>
@@ -483,7 +477,7 @@
                 <div type="item">
                     <head>CONTRATS, (11h.55 a.m.)</head>
                     <p>Cours de la Bourse de Minet-el-Bassal </p>
-                    <table cols="5">
+                    <table cols="5" xml:id="deg-ta-mmeb09">
                         <row role="label">
                             <cell><hi rend="italic">Coton F.G.F.Br.</hi></cell>
                         </row>

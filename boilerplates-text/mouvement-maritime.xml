@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article" xml:lang="fr">
+            <div type="article" xml:lang="fr" xml:id="deg-el-mmpa01">
                 <head>MOUVEMENT MARITIME DU PORT D’ALEXANDRIE</head>
                 <p>ARRIVÉES</p>
                 <p><date when="1905-07-12">12 juillet</date></p>

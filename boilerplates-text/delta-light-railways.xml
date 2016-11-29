@@ -29,9 +29,9 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article">
+            <div type="article" xml:id="deg-el-dllr01">
                 <head>DELTA LIGHT RAILWAYS, Ltd.</head>
-                <table cols="5">
+                <table cols="5" xml:id="deg-ta-dllr01">
                     <head>Traffic Returns</head>
                     <row role="label">
                         <cell/>
@@ -92,7 +92,7 @@
                     </row>
                 </table>
                 <p>*Week ended <date when="1904-06-25">25th June 1904</date>.</p>
-                <table cols="5">
+                <table cols="5" xml:id="deg-ta-dllr01">
                     <head>HELOUAN BRANCH</head>
                     <row>
                         <cell/>
