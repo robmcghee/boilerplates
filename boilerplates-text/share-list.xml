@@ -28,11 +28,11 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article">
+            <div type="article" xml:id="deg-el-shli01">
                 <head>SHARE LIST</head>
                 <p>Issued by the “Association des Courtiers en Valeurs d'Alexandrie”.</p>
                 <p>Clôture d’aujourd'hui à 12h.45 p.m.</p>
-                <table rows="39" cols="5">
+                <table rows="39" cols="5" xml:id="deg-ta-shli01">
                     <row>
                         <cell>Agric. Bank of Egypt</cell>
                         <cell>Lst.</cell>

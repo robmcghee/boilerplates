@@ -28,9 +28,9 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article">
+            <div type="article" xml:id="deg-el-rrat01">
                 <head>RAMLEH RAILWAY COMPANY</head>
-                <table cols="4">
+                <table cols="4" xml:id="deg-ta-rrat01">
                     <head>RECETTES</head>
                     <row>
                         <cell cols="4">du <date>dimanche 2 juil.</date> au <date>samedi 8 juil.
@@ -118,7 +118,7 @@
                                 >144,742.</measure></cell>
                     </row>
                 </table>
-                <table cols="4">
+                <table cols="4" xml:id="deg-ta-rrat02">
                     <head>Alexandria tramway company</head>
                     <row>
                         <cell cols="4">du <date>dimanche 2 juil</date>, au <date>samedi 8 juil.

@@ -29,13 +29,13 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" xml:id="deg-ta-wpt01">
+            <div type="item" xml:id="deg-el-wept01">
                 <head>WEEKLY POSTAL TABLE.</head>
                 <head type="sub"><hi rend="italic">ALEXANDRIA OFFICE</hi>.</head>
                 <p>Table showing the days of despatch and arrival of the principal Foreign Mails
                     from <date when="1905-06-05">Monday, 5th</date>, to <date when="1905-06-11">Sunday, 11th June 1905</date>.</p>
                 <p> (Both Dates Inclusive)</p>
-                <table rows="29" cols="8">
+                <table rows="29" cols="8" xml:id="deg-ta-wept01">
                     <row role="label">
                         <cell rows="3">COUNTRIES</cell>
                         <cell rows="3">MAIL PACKETS</cell>

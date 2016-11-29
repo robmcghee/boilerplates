@@ -28,10 +28,10 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article" scope="financial" xml:lang="fr">
+            <div type="article" scope="financial" xml:lang="fr" xml:id="deg-el-tdex01">
                 <head>TARIF D’EXPORTATION</head>
                 <p>pour le mois de <date>juillet 1906</date>.</p>
-                <table rows="23" cols="4">
+                <table rows="23" cols="4" xml:id="deg-ta-tdex01">
                     <row role="label">
                         <cell>DESIGNATION</cell>
                         <cell>UNITÉ</cell>

@@ -28,9 +28,9 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article" xml:lang="fr">
+            <div type="article" xml:lang="fr" xml:id="deg-el-pdco01">
                 <head>PRIMES DES CONTRATS</head>
-                <table cols="6">
+                <table cols="6" xml:id="deg-ta-pdco01">
                     <row>
                         <cell cols="6">"SIMPLE FACULTE"</cell>
                     </row>
