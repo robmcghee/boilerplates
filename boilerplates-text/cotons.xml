@@ -28,14 +28,14 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article" scope="financial" xml:lang="fr">
+            <div type="article" scope="financial" xml:lang="fr" xml:id="deg-el-ctns01">
                 <head>COTONS</head>
                 <p>copie de la dépêche</p>
                 <p>DE L'ALEXANDRIA GENERAL PRODUCE ASSOCIATION</p>
                 <p>à la</p>
                 <p>LIVERPOOL COTTON ASSOCIATION</p>
                 <p>(Cours pratiqués ce jour à la Bourse Khédiviale à 9h. 45 a.m.) </p>
-                <table rows="4" cols="4">
+                <table rows="4" cols="4" xml:id="deg-ta-ctns01">
                     <row>
                         <cell>Tal.</cell>
                         <cell><measure unit="tal">14 7/8</measure></cell>
@@ -64,7 +64,7 @@
                 <p>Marché ferme</p>
                 <p>Arrivages de ce jour, à Minet-el-Bassal, cantars <measure unit="cantar">1008</measure></p>
                 <p>(Cours pratiqués ce jour à la Bourse Khédiviale à 12h. 45 p.m.)</p>
-                <table rows="4" cols="4">
+                <table rows="4" cols="4" xml:id="deg-ta-ctns02">
                     <row>
                         <cell>Tal.</cell>
                         <cell><measure unit="tal">14 15/16</measure></cell>

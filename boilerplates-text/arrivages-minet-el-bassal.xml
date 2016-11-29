@@ -28,10 +28,10 @@
     </teiHeader>
     <text>
         <body>
-            <div type="section" scope="financial" xml:lang="fr">
+            <div type="section" scope="financial" xml:lang="fr" xml:id="deg-el-ameb01">
                 <head>ARRIVAGES A MINET-EL-BASSAL</head>
                 <p>du mois de juillet 1904</p>
-                <table rows="31" cols="7">
+                <table rows="31" cols="7" xml:id="deg-ta-ameb01">
                     <row role="label">
                         <cell>Du</cell>
                         <cell cols="2">Coton</cell>

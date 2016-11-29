@@ -28,8 +28,8 @@
     </teiHeader>
     <text>
         <body>
-            <div type="item" scope="calendar">
-                <table cols="3" xml:id="CalendarOfTheWeek">
+            <div type="item" scope="calendar" xml:id="deg-el-cotw01">
+                <table cols="3" xml:id="deg-ta-cotw01">
                     <head>CALENDAR OF THE WEEK.</head>
                     <head type="sub">(Coptic and Mohamedan.)</head>
                     <row>

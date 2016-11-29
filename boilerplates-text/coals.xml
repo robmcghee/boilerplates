@@ -28,9 +28,9 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article">
+            <div type="article" xml:id="deg-el-coal01">
                 <head>COALS.</head>
-                <table>
+                <table xml:id="deg-ta-coal01">
                     <head>Current prices per ton free on wagon.</head>
                     <row role="label">
                         <cell/>

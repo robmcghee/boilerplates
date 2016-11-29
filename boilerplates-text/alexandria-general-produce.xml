@@ -28,13 +28,13 @@
     </teiHeader>
     <text>
         <body>
-            <div type="section" scope="financial" xml:lang="fr">
+            <div type="section" scope="financial" xml:lang="fr" xml:id="deg-el-agpa01">
                 <head>ALEXANDRIA GENERAL PRODUCE ASSOCIATION</head>
                 <head>BULLETIN HEBDOMADAIRE</head>
                 <p>No. <measure>1,031</measure></p>
                 <p>Alexandrie, VENDREDI à Midi <date when="1905-07-14">le 14 Juillet
                         1905</date></p>
-                <table xml:id="deg-alexandria-general-produce-association">
+                <table xml:id="deg-ta-agpa01">
                     <row role="label">
                         <cell cols="11">COTON</cell>
                     </row>

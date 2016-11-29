@@ -28,10 +28,10 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article" scope="financial" xml:lang="fr">
+            <div type="article" scope="financial" xml:lang="fr" xml:id="deg-el-cotn01">
                 <head>COTON</head>
                 <p>Exportation du mois de juin 1905</p>
-                <table cols="2">
+                <table cols="2" xml:id="deg-ta-cotn01">
                     <row role="label">
                         <cell/>
                         <cell>balles</cell>
