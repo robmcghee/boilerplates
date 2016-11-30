@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Cheap Prepaid Advertisements template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-11-29">November 29, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-07-12">12 July 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="deg-el-cppa01">
+                <head>Cheap Prepaid Advertisements</head>
+                <p>Under this heading advertisements are inserted at the following rates :—</p>
+                <table rows="4" cols="4">
+                    <row role="label">
+                        <cell/>
+                        <cell>ONCE</cell>
+                        <cell>3 TIMES</cell>
+                        <cell>6 TIMES</cell>
+                    </row>
+                    <row>
+                        <cell>15 words . . .</cell>
+                        <cell>P.T. 5</cell>
+                        <cell>P.T. 10</cell>
+                        <cell>P.T. 15</cell>
+                    </row>
+                    <row>
+                        <cell>30 words ...</cell>
+                        <cell>„ 8</cell>
+                        <cell>„ 16</cell>
+                        <cell>„ 24</cell>
+                    </row>
+                    <row>
+                        <cell>Every 10 words, beyond 30. . .</cell>
+                        <cell>,, 2</cell>
+                        <cell>,, 4</cell>
+                        <cell>,, 6</cell>
+                    </row>
+                </table>
+                <p>The address is counted. The advertisement must appear on conseontive days for
+                    above rates to be obtained. 50% extra is charged for advertisements not
+                    appearing consecutively.</p>
+                <p>All such advertisements must be prepaid, and to this rule no exception
+                    whatever will be made. Letters in reply to advertisements will be posted to
+                    any address if a few stamps are sent by the advertiser to cover postage.</p>
+                <div type="item">
+                    <p>AGARD'S INTERNATIONAL INDUSTRIES AND TRADE MARKS REGISTER. – A useful
+                        business directory containing addresses of all important business firms of
+                        Great Britain the Continent, and Egypt. Circulating all over Europe and
+                        America. Price— One pound Sterling. Post Free.</p>
+                    <p>AGARD'S INTERNATIONAL HOTEL GUIDE sent post free to all first class
+                        Hotels throughout Europe, America, the Colonies and Egypt. The best
+                        reference book for travellers.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI> 
