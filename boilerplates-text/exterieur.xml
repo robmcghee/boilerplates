@@ -55,7 +55,7 @@
                 <p>" oct. : <measure unit="$">10.96</measure> (24 points de baisse)</p>
                 <p>Arrivages du jour, balles <measure unit="balles">22,000</measure></p>
                 <p>Contre même jour, l’année dernière, balles <measure unit="balles">1,800</measure></p>
-                <p>Pointer : bal. —,— contre bal. —,—</p>
+                <p>Pointer : bal. <measure unit="balles">—,—</measure> contre bal. <measure unit="balles">—,—</measure></p>
             </div>
         </body>
     </text>
