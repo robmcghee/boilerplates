@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Will Hanley</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-01">September 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Daily Weather Report template</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" scope="weather" xml:id="deg-el-dawr02">
+                <head>DAILY WEATHER REPORT</head>
+                <p>OBSERVATIONS BY THE SURVEY DEPARTMENT.</p>
+                <div type="subsection">
+                    <table rend="frame" xml:id="deg-ta-dawr01">
+                        <head>ALEXANDRIA<lb/>Kom-el-Nadoura Observatory.</head>
+                        <row>
+                            <cell cols="2">Direction of wind</cell>
+                            <cell>N.E.</cell>
+                        </row>
+                        <row>
+                            <cell cols="2">Force of Anemometer</cell>
+                            <cell><measure>10</measure></cell>
+                        </row>
+                        <row>
+                            <cell cols="2">State of Sea</cell>
+                            <cell>Slight</cell>
+                        </row>
+                        <row>
+                            <cell cols="2">Barometer corrected</cell>
+                            <cell><measure>764.5</measure></cell>
+                        </row>
+                        <row>
+                            <cell cols="2">Evaporation</cell>
+                            <cell>8</cell>
+                        </row>
+                        <row>
+                            <cell cols="2">State of Clouds</cell>
+                            <cell>clear</cell>
+                        </row>
+                        <row>
+                            <cell rows="4">During 24 hours ending 8 a.m.</cell>
+                            <cell>Max. Temp in the shade</cell>
+                            <cell><measure unit="dC">24</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Min. Temp in the shade</cell>
+                            <cell><measure unit="dC">19</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Humidity of the air</cell>
+                            <cell><measure type="percentage">64</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Heat of the sun</cell>
+                            <cell><measure>40</measure></cell>
+                        </row>
+                        <row>
+                            <cell cols="2">Moon rises</cell>
+                            <cell>5.21 p.m.</cell>
+                        </row><row>
+                            <cell cols="2">,, sets</cell>
+                            <cell>4.21 a.m.</cell>
+                        </row>
+                    </table>
+                    <p>REMARKS.</p>
+                    <p>The general weather conditions are unchanged. The barometer is steady.</p>
+                    <table cols="3" xml:id="deg-ta-dawr02">
+                        <head>OTHER STATIONS.</head>
+                        <head type="sub">OBSERVATIONS BY SURVEY DEPARTMENT.</head>
+                        <head type="sub">For the 24 hours ending 8 a.m. Yesterday</head>
+                        <row role="label">
+                            <cell>Stations.</cell>
+                            <cell>Max. temp. in the shade.</cell>
+                            <cell>Min temp. in the shade.</cell>
+                        </row>
+                        <row>
+                            <cell>Port Said</cell>
+                            <cell><measure unit="dC">29</measure></cell>
+                            <cell><measure unit="dC">19</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Suez</cell>
+                            <cell><measure unit="dC">31</measure></cell>
+                            <cell><measure unit="dC">18</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Cairo Halouan</cell>
+                            <cell><measure unit="dC">29</measure></cell>
+                            <cell><measure unit="dC">16</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Cairo Ghizeh</cell>
+                            <cell><measure unit="dC">30</measure></cell>
+                            <cell><measure unit="dC">15</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Assiout</cell>
+                            <cell><measure unit="dC">34</measure></cell>
+                            <cell><measure unit="dC">19</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Assouan</cell>
+                            <cell><measure unit="dC">41</measure></cell>
+                            <cell><measure unit="dC">24</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Wady Halfa</cell>
+                            <cell><measure unit="dC">42</measure></cell>
+                            <cell><measure unit="dC">24</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Merowe</cell>
+                            <cell><measure unit="dC">42</measure></cell>
+                            <cell><measure unit="dC">18</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Atbara</cell>
+                            <cell><measure unit="dC">40</measure></cell>
+                            <cell><measure unit="dC">24</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Suakin</cell>
+                            <cell><measure unit="dC">35</measure></cell>
+                            <cell><measure unit="dC">23</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Khartoum</cell>
+                            <cell><measure unit="dC">39</measure></cell>
+                            <cell><measure unit="dC">26</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Wad Medani</cell>
+                            <cell><measure unit="dC">37</measure></cell>
+                            <cell><measure unit="dC">22</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Duam</cell>
+                            <cell><measure unit="dC">36</measure></cell>
+                            <cell><measure unit="dC">25</measure></cell>
+                        </row>
+                    </table>
+                </div>
+                <div type="subsection">
+                    <table rows="6" cols="5" xml:id="deg-ta-dawr03">
+                        <head>FOREIGN STATIONS.</head>
+                        <row role="label">
+                            <cell>Stations.</cell>
+                            <cell>Barom.</cell>
+                            <cell>Wind.</cell>
+                            <cell>Temp.</cell>
+                            <cell>State of Sea</cell>
+                        </row>
+                        <row>
+                            <cell>Trieste</cell>
+                            <cell><measure>768.9</measure></cell>
+                            <cell>Calm</cell>
+                            <cell><measure unit="dC">10</measure></cell>
+                            <cell>Calm</cell>
+                        </row>
+                        <row>
+                            <cell>Malta</cell>
+                            <cell><measure>765.7</measure></cell>
+                            <cell>Strong</cell>
+                            <cell><measure unit="dC">18</measure></cell>
+                            <cell>Rough</cell>
+                        </row>
+                        <row>
+                            <cell>Brindisi</cell>
+                            <cell><measure>769.5</measure></cell>
+                            <cell>Light</cell>
+                            <cell><measure unit="dC">13</measure></cell>
+                            <cell>Rather rough</cell>
+                        </row>
+                        <row>
+                            <cell>Athens</cell>
+                            <cell><measure>769.2</measure></cell>
+                            <cell>Almost calm</cell>
+                            <cell><measure unit="dC">9</measure></cell>
+                            <cell>Slight</cell>
+                        </row>
+                        <row>
+                            <cell>Limassol</cell>
+                            <cell><measure>760.5</measure></cell>
+                            <cell>Light</cell>
+                            <cell><measure unit="dC">11</measure></cell>
+                            <cell>Moder.</cell>
+                        </row>
+                    </table>
+                </div>
+                <div type="subsection">
+                    <table rend="frame" xml:id="deg-ta-dawr04">
+                        <row role="label">
+                            <cell cols="3" rows="2">PHASES OF THE MOON</cell>
+                            <cell cols="2">THE SUN</cell>
+                        </row>
+                        <row>
+                            <cell>Rises a.m.</cell>
+                            <cell>Sets p.m.</cell>
+                        </row>
+                        <row>
+                            <cell>Sept. 3</cell>
+                            <cell>Full Moon</cell>
+                            <cell>1.36 a.m.</cell>
+                            <cell>5.33</cell>
+                            <cell>6.17</cell>
+                        </row>
+                        <row>
+                            <cell>,, 10</cell>
+                            <cell>Last Quarter</cell>
+                            <cell>10.54 p.m.</cell>
+                            <cell>5.36</cell>
+                            <cell>6. 8</cell>
+                        </row>
+                        <row>
+                            <cell>,, 18</cell>
+                            <cell>New Moon</cell>
+                            <cell>2.34 p.m.</cell>
+                            <cell>5.40</cell>
+                            <cell>5.58</cell>
+                        </row>
+                        <row>
+                            <cell>,, 25</cell>
+                            <cell>First Quarter</cell>
+                            <cell>8.12 p.m.</cell>
+                            <cell>5.44</cell>
+                            <cell>5.50</cell>
+                        </row>
+                    </table>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
