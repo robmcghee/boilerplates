@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Resume de la Situation Cotonniere template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2017-04-11">April 11, 2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1906-10-02">October 2, 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article" scope="financial" xml:lang="fr" xml:id="deg-el-rsco01">
+                <head>RESUME DE LA SITUATION COTONNIERE</head>
+                <p>au <date when="1906-09-28">28 septembre</date></p>
+                <table cols="3">
+                    <row role="label">
+                        <cell>AMERIQUE:</cell>
+                        <cell>1906</cell>
+                        <cell>1905</cell>
+                    </row>
+                    <row role="label">
+                        <cell/>
+                        <cell>Balles</cell>
+                        <cell>Balles</cell>
+                    </row>
+                    <row>
+                        <cell>Recettes aux ports Semaine</cell>
+                        <cell><measure unit="balles">270,000</measure></cell>
+                        <cell><measure unit="balles">294,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Recettes aux 1er September</cell>
+                        <cell><measure unit="balles">671,000</measure></cell>
+                        <cell><measure unit="balles">923,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Export. Angleterre Semaine</cell>
+                        <cell><measure unit="balles">50,000</measure></cell>
+                        <cell><measure unit="balles">53,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Export. Angleterre du 1 Sept.</cell>
+                        <cell><measure unit="balles">138,000</measure></cell>
+                        <cell><measure unit="balles">191,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Export. Continent Semaine</cell>
+                        <cell><measure unit="balles">80,000</measure></cell>
+                        <cell><measure unit="balles">105,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Export Continent du 1er Sept.</cell>
+                        <cell><measure unit="balles">211,000</measure></cell>
+                        <cell><measure unit="balles">294,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Pris par la filature Etats-Unis</cell>
+                        <cell><measure unit="balles">220,000</measure></cell>
+                        <cell><measure unit="balles">311,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Stock ports</cell>
+                        <cell><measure unit="balles">440,000</measure></cell>
+                        <cell><measure unit="balles">664,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Insight semaine</cell>
+                        <cell><measure unit="balles">359,000</measure></cell>
+                        <cell><measure unit="balles">386,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Insight du 1er Septembre</cell>
+                        <cell><measure unit="balles">935,000</measure></cell>
+                        <cell><measure unit="balles">1,230,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Con. Mondiale Amér. Semaine</cell>
+                        <cell><measure unit="balles">168,000</measure></cell>
+                        <cell><measure unit="balles">206,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Con. Mon. Amér. du 1er Sept.</cell>
+                        <cell><measure unit="balles">645,000</measure></cell>
+                        <cell><measure unit="balles">749,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Visible supply américain</cell>
+                        <cell><measure unit="balles">1,153,000</measure></cell>
+                        <cell><measure unit="balles">2,075,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Visible supply général</cell>
+                        <cell><measure unit="balles">1,440,000</measure></cell>
+                        <cell><measure unit="balles">2,375,000</measure></cell>
+                    </row>
+                    <row role="label">
+                        <cell>LIVERPOOL:</cell>
+                        <cell cols="2">GENERAL</cell>
+                    </row>
+                    <row role="label">
+                        <cell/>
+                        <cell>1906</cell>
+                        <cell>1905</cell>
+                    </row>
+                    <row role="label">
+                        <cell/>
+                        <cell>Balles</cell>
+                        <cell>Balles</cell>
+                    </row>
+                    <row>
+                        <cell>Ventes Semaine</cell>
+                        <cell><measure unit="balles">27,000</measure></cell>
+                        <cell><measure unit="balles">49,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Forwarded</cell>
+                        <cell><measure unit="balles">6,000</measure></cell>
+                        <cell><measure unit="balles">47,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Importation</cell>
+                        <cell><measure unit="balles">32,000</measure></cell>
+                        <cell><measure unit="balles">45,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Exportation</cell>
+                        <cell><measure unit="balles">4,000</measure></cell>
+                        <cell><measure unit="balles">9,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Stock</cell>
+                        <cell><measure unit="balles">260,000</measure></cell>
+                        <cell><measure unit="balles">661,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Flottant</cell>
+                        <cell><measure unit="balles">12,000</measure></cell>
+                        <cell><measure unit="balles">153,000</measure></cell>
+                    </row>
+                    <row role="label">
+                        <cell/>
+                        <cell cols="2">EGYPTIEN</cell>
+                    </row>
+                    <row role="label">
+                        <cell/>
+                        <cell>1906</cell>
+                        <cell>1905</cell>
+                    </row>
+                    <row role="label">
+                        <cell/>
+                        <cell>Balles</cell>
+                        <cell>Balles</cell>
+                    </row>
+                    <row>
+                        <cell>Ventes Semaine</cell>
+                        <cell><measure unit="balles">1,500</measure></cell>
+                        <cell><measure unit="balles">2,400</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Forwarded</cell>
+                        <cell><measure unit="balles">2,000</measure></cell>
+                        <cell><measure unit="balles">1,800</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Importation</cell>
+                        <cell><measure unit="balles">150</measure></cell>
+                        <cell><measure unit="balles">5,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Exportation</cell>
+                        <cell><measure unit="balles">300</measure></cell>
+                        <cell><measure unit="balles">1,100</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Stock</cell>
+                        <cell><measure unit="balles">19,000</measure></cell>
+                        <cell><measure unit="balles">33,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Flottant</cell>
+                        <cell><measure unit="balles">7,000</measure></cell>
+                        <cell><measure unit="balles">7,000</measure></cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>
