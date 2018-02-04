@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">American Stocks and Shares template</title>
+                <author>Jonathan Morales</author>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-04">February 4, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1906-04-30">30 April 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article" xml:id="deg-el-amss01">
+                <head>AMERICAN STOCKS &amp; SHARES.</head>
+                <p>(Gazette's Special Service.)</p>
+                <table xml:id="deg-ta-amss01" cols="3">
+                    <row>
+                        <cell/>
+                        <cell>Yesterday</cell>
+                        <cell>To-day</cell>
+                    </row>
+                    <row>
+                        <cell>Aitchison</cell>
+                        <cell>92 7/8</cell>
+                        <cell>90 7/8</cell>
+                    </row>
+                    <row>
+                        <cell>Baltimore &amp; Ohio</cell>
+                        <cell>111 3/4</cell>
+                        <cell>109 7/8</cell>
+                    </row>
+                    <row>
+                        <cell>Canadian Pacific</cell>
+                        <cell>176 1/8</cell>
+                        <cell>172 7/8</cell>
+                    </row>
+                    <row>
+                        <cell>Chicago and Milwaukee</cell>
+                        <cell>172 3/4</cell>
+                        <cell>169 1/4</cell>
+                    </row>
+                    <row>
+                        <cell>Erie</cell>
+                        <cell>43 1/4</cell>
+                        <cell>41 3/8</cell>
+                    </row>
+                    <row>
+                        <cell>Illinois Central</cell>
+                        <cell>175</cell>
+                        <cell>171 3/4</cell>
+                    </row>
+                    <row>
+                        <cell>Louisville</cell>
+                        <cell>149 1/2</cell>
+                        <cell>157 1/4</cell>
+                    </row>
+                    <row>
+                        <cell>New York Central</cell>
+                        <cell>141 1/2</cell>
+                        <cell>137</cell>
+                    </row>
+                    <row>
+                        <cell>Pennsylvania Shares</cell>
+                        <cell>71 1/4</cell>
+                        <cell>70 3/8</cell>
+                    </row>
+                    <row>
+                        <cell>Philadelpha and Reading</cell>
+                        <cell>65 1/2</cell>
+                        <cell>63 1/2</cell>
+                    </row>
+                    <row>
+                        <cell>Southern Pacific</cell>
+                        <cell>57 7/8</cell>
+                        <cell>53 3/4</cell>
+                    </row>
+                    <row>
+                        <cell>Union Pacific</cell>
+                        <cell>164 3/4</cell>
+                        <cell>149 7/8</cell>
+                    </row>
+                    <row>
+                        <cell>U.S. Steel</cell>
+                        <cell>43 7/8</cell>
+                        <cell>41 1/8</cell>
+                    </row>
+                    <row>
+                        <cell>'' Pref</cell>
+                        <cell>101 1/4</cell>
+                        <cell>109 1/8</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>
