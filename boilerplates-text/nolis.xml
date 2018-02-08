@@ -215,7 +215,7 @@
                         <cell>Coton : Odessa, Trieste, Venise, Gênes Marseille</cell>
                         <cell>Fr.</cell>
                         <cell><measure unit="fcs">2.—</measure></cell>
-                        <cell rows="5">par 100 kilog.</cell>
+                        <cell rows="5" cols="2">par 100 kilog.</cell>
                     </row>
                     <row>
                         <cell>Barcelone</cell>
@@ -247,7 +247,7 @@
                         <cell><measure unit="fcs">20.—</measure> à <measure unit="fcs"
                             >22.50</measure>
                         </cell>
-                        <cell rows="4">par tonne poids</cell>
+                        <cell rows="4" cols="2">par tonne poids</cell>
                     </row>
                     <row>
                         <cell>St-Petersbourg</cell>

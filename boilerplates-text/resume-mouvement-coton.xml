@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Resume Mouvement coton template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-08">February 8, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1907-04-01">April 1, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article" scope="financial" xml:lang="fr" xml:id="deg-el-rmco01">
+                <head>Resume Mouvement coton</head>
+                <p><hi rend="italic">depuis </hi><date when="1906-09-01"><hi rend="italic">le 1er
+                            Septembre</hi></date></p>
+                <table cols="4">
+                    <row role="label">
+                        <cell/>
+                        <cell>1906-7</cell>
+                        <cell>1905-6</cell>
+                        <cell>1904 905</cell>
+                    </row>
+                    <row role="label">
+                        <cell/>
+                        <cell>Cantars</cell>
+                        <cell>Cantars</cell>
+                        <cell>Cantars</cell>
+                    </row>
+                    <row>
+                        <cell>Recettes</cell>
+                        <cell><measure unit="cantars">6,772,000</measure></cell>
+                        <cell><measure unit="cantars">5,769,000</measure></cell>
+                        <cell><measure unit="cantars">5,527,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Exportat.</cell>
+                        <cell><measure unit="cantars">5,403,000</measure></cell>
+                        <cell><measure unit="cantars">4,806,000</measure></cell>
+                        <cell><measure unit="cantars">4,385,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Stock</cell>
+                        <cell><measure unit="cantars">1,590,000</measure></cell>
+                        <cell><measure unit="cantars">1,309,000</measure></cell>
+                        <cell><measure unit="cantars">1,549,000</measure></cell>
+                    </row>
+                    <row role="label">
+                        <cell cols="4">Comme partage, nous trouvons :</cell>
+                    </row>
+                    <row>
+                        <cell>Angleterre</cell>
+                        <cell><measure unit="cantars">6,772,000</measure></cell>
+                        <cell><measure unit="cantars">5,769,000</measure></cell>
+                        <cell><measure unit="cantars">5,527,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Continent</cell>
+                        <cell><measure unit="cantars">5,403,000</measure></cell>
+                        <cell><measure unit="cantars">4,806,000</measure></cell>
+                        <cell><measure unit="cantars">4,385,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Amérique</cell>
+                        <cell><measure unit="cantars">1,590,000</measure></cell>
+                        <cell><measure unit="cantars">1,309,000</measure></cell>
+                        <cell><measure unit="cantars">1,549,000</measure></cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>
