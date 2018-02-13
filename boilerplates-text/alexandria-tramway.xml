@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Alexandria Tramway Company template</title>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-13">February 13, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1907-04-02">April 2, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article" xml:id="deg-el-rrat02">
+                <head>ALEXANDRIA TRAMWAY COMPANY</head>
+                <table cols="4" xml:id="deg-ta-rrat02">
+                    <row>
+                        <cell cols="4">du <date when="1907-03-24">dimanche 24 Mars</date>, au <date
+                                when="1907-03-30">samedi 30 mars 1907</date></cell>
+                    </row>
+                    <row role="label">
+                        <cell/>
+                        <cell>Billets</cell>
+                        <cell>Carnets et Divers</cell>
+                        <cell>Totaux</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>L.E.</cell>
+                        <cell>L.E.</cell>
+                        <cell>L.E.</cell>
+                    </row>
+                    <row>
+                        <cell>Année courante</cell>
+                        <cell><measure unit="LE">1526</measure></cell>
+                        <cell><measure unit="LE">126</measure></cell>
+                        <cell><measure unit="LE">1652</measure></cell>
+                    </row>
+                    <row>
+                        <cell>,, dernière</cell>
+                        <cell><measure unit="LE">1230</measure></cell>
+                        <cell><measure unit="LE">139</measure></cell>
+                        <cell><measure unit="LE">1369</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Augmentation</cell>
+                        <cell><measure unit="LE">296</measure></cell>
+                        <cell/>
+                        <cell><measure unit="LE">283</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Diminuation</cell>
+                        <cell/>
+                        <cell><measure unit="LE">13</measure></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell cols="4">du <date when="1907-01-01">1er janvier</date> au <date
+                                when="1907-03-30">samedi 30 mars 1907</date></cell>
+                    </row>
+                    <row role="label">
+                        <cell/>
+                        <cell>Billets</cell>
+                        <cell>Carnets et Divers</cell>
+                        <cell>Totaux</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>L.E.</cell>
+                        <cell>L.E.</cell>
+                        <cell>L.E.</cell>
+                    </row>
+                    <row>
+                        <cell>Année courante</cell>
+                        <cell><measure unit="LE">18586</measure></cell>
+                        <cell><measure unit="LE">1824</measure></cell>
+                        <cell><measure unit="pt">20410</measure></cell>
+                    </row>
+                    <row>
+                        <cell>,, dernière</cell>
+                        <cell><measure unit="LE">14792</measure></cell>
+                        <cell><measure unit="LE">1574</measure></cell>
+                        <cell><measure unit="LE">16366</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Augmentation</cell>
+                        <cell><measure unit="LE">3794</measure></cell>
+                        <cell><measure unit="LE">250</measure></cell>
+                        <cell><measure unit="LE">4044</measure></cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

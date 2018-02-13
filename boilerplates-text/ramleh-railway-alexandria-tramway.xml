@@ -33,7 +33,7 @@
                 <table cols="4" xml:id="deg-ta-rrat01">
                     <head>RECETTES</head>
                     <row>
-                        <cell cols="4">du <date>dimanche 2 juil.</date> au <date>samedi 8 juil.
+                        <cell cols="4">du <date when="1905-07-02">dimanche 2 juil.</date> au <date when="1905-07-08">samedi 8 juil.
                                 1905</date></cell>
                     </row>
                     <row role="label">
@@ -72,7 +72,7 @@
                                 <measure unit="pt">31,129</measure></cell>
                     </row>
                     <row>
-                        <cell cols="4">du <date>1er octobre 1904</date> au <date>samedi 8 juil
+                        <cell cols="4">du <date when="1904-10-01">1er octobre 1904</date> au <date when="1905-07-08">samedi 8 juil
                                 1905</date></cell>
                     </row>
                     <row role="label">
@@ -121,7 +121,7 @@
                 <table cols="4" xml:id="deg-ta-rrat02">
                     <head>Alexandria tramway company</head>
                     <row>
-                        <cell cols="4">du <date>dimanche 2 juil</date>, au <date>samedi 8 juil.
+                        <cell cols="4">du <date when="1905-07-02">dimanche 2 juil</date>, au <date when="1905-07-08">samedi 8 juil.
                                 1905</date></cell>
                     </row>
                     <row role="label">
@@ -155,7 +155,7 @@
                         <cell><measure unit="pt">12,945.6</measure></cell>
                     </row>
                     <row>
-                        <cell cols="4">du <date>1er janvier</date> au <date>samedi 8 juil.
+                        <cell cols="4">du <date when="1905-01-01">1er janvier</date> au <date when="1905-07-08">samedi 8 juil.
                                 1905</date></cell>
                     </row>
                     <row role="label">
