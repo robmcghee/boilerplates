@@ -38,7 +38,11 @@
                     <row role="label">
                         <cell cols="5"><hi rend="italic">Coton F.G.F.Br.</hi></cell>
                     </row>
-                    <row><cell></cell><cell cols="2">Recoivent</cell><cell cols="2">Livrent</cell></row>
+                    <row>
+                        <cell/>
+                        <cell cols="2">Recoivent</cell>
+                        <cell cols="2">Livrent</cell>
+                    </row>
                     <row>
                         <cell>Novembre</cell>
                         <cell>Tal.</cell>
@@ -99,7 +103,7 @@
                         <cell><measure unit="pt">78 5/40</measure></cell>
                     </row>
                 </table>
-                </div>
+            </div>
         </body>
     </text>
 </TEI>
