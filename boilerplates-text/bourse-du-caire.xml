@@ -32,7 +32,7 @@
             <div type="article" xml:id="deg-el-bduc01" xml:lang="fr">
                 <head>BOURSE DU CAIRE</head>
                 <p> Le Caire, le <date when="1907-03-28">28 Mars 1907</date>. </p>
-                <table cols="4" xml:id="deg-ta-stsh01">
+                <table cols="4" xml:id="deg-ta-bduc01">
                     <row role="label">
                         <cell cols="4">
                             <hi rend="bold">Banques</hi>
