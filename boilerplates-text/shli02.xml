@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Share list template</title>
+                <editor>Huaqing Shi</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-02-25">Feburary 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1906-07-02">2 July 1906</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article" xml:id="deg-el-shli02">
+                    <head>SHARE LIST</head>
+                    <p>Issued by the “Association des Courtiers en Valeurs d'Alexandrie”.</p>
+                    <p>Clôture d’aujourd'hui à 12h.30 p.m.</p>
+                    <table rows="56" cols="5" xml:id="deg-ta-shli02">
+                        <row>
+                            <cell>Agric. Bank of Egypt</cell>
+                            <cell>Lst.</cell>
+                            <cell><measure unit="£">9 9/16</measure>
+                            </cell>
+                            <cell>à</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Nat. Bank of Egypt</cell>
+                            <cell>"</cell>
+                            <cell>
+                                <measure unit="£">26 5/16</measure>
+                            </cell>
+                            <cell>"</cell>
+                            <cell>
+                                <measure unit="£">— 3/8</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Ramleh Railway</cell>
+                            <cell>"</cell>
+                            <cell>
+                                <measure unit="£">6 1/4</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Egyptian Delta Railway ex.-c.</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">11 7/8</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— 15/16</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Tram. d’Alexandrie</cell>
+                            <cell>Fcs.</cell>
+                            <cell><measure unit="fcs">193 1/2</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">194 —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>" " div.</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">360 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">361 —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Alexandria Water</cell>
+                            <cell>Lst.</cell>
+                            <cell><measure unit="£">14 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Eaux du Cairo</cell>
+                            <cell>Fcs.</cell>
+                            <cell><measure unit="fcs">121 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>"" Jouissance</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">258 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Daira Sanieh</cell>
+                            <cell>Lst.</cell>
+                            <cell><measure unit="£">16 3/4</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— 13/16</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Béhéra</cell>
+                            <cell>L.E.</cell>
+                            <cell><measure unit="LE">36 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="LE">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Bourse Khédiviale</cell>
+                            <cell>Lst.</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Egyptian Markets</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">25/9</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Anglo-Egyptian Spinning</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">—7/8</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£"> — —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Bière d’Alex. Priv.</cell>
+                            <cell>Fcs.</cell>
+                            <cell><measure unit="fcs">197 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell> " " Div.</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">120 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>" du Cairo Priv.</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">120 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>" " Div.</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">61 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Egypt Cotton Mills</cell>
+                            <cell>Lst.</cell>
+                            <cell><measure unit="£">5/9 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">6 —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>" Salt &amp; Soda</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">19/6 —</measure>
+                            </cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">19/9 —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Pressage</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Presses Libres</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Oblig. Credit Foncier Egyptien 3 % 1886</cell>
+                            <cell>Fcs.</cell>
+                            <cell><measure unit="fcs">325 1/2</measure>
+                            </cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>" 1903</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">271 1/2</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Lots Turcs</cell>
+                            <cell>"</cell>
+                            <cell>
+                                <measure unit="fcs">145 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Banque Nationale de Grèce</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Cassa di Sconto</cell>
+                            <cell>Fcs.</cell>
+                            <cell><measure unit="fcs">213 1/2</measure>
+                            </cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>" " Nouv.</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">206 1/2</measure>
+                            </cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Anglo-American Nile</cell>
+                            <cell>Lst.</cell>
+                            <cell><measure unit="£">5 1/8</measure>
+                            </cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Banque d’Athènes </cell>
+                            <cell>Fcs.</cell>
+                            <cell><measure unit="fcs">153 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Deferred Delta</cell>
+                            <cell>Lst.</cell>
+                            <cell><measure unit="£">12 1/2</measure>
+                            </cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Nungovich Hotels</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">15 5/16</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— 3/8</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Delta Land</cell>
+                            <cell>"</cell>
+                            <cell>
+                                <measure unit="£">3 1/2</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— 17/32</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Nile Land</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">13 1/4</measure>
+                            </cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— 17/32</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Sucreries et Raffineried's Egypt</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">21 1/2</measure>
+                            </cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Khedivial Mail Pref. List.</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">4 1/2</measure>
+                            </cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell> " " ord.</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">31/9</measure>
+                            </cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell> Egyptian Invest. &amp; Agency Ld.</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">1 1/4</measure>
+                            </cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Land Bank</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">8 1/2</measure>
+                            </cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Land Investment</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Trust</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">1 15/32</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— 1/2</measure></cell>
+                        </row>                        
+                        <row>
+                            <cell>Estates</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">1 21/32</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— 11/16</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Splendid Hotels</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">3 5/8</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Cheik Fadl </cell>
+                            <cell>Fcs.</cell>
+                            <cell><measure unit="fcs">112 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Entreprises Urbaines</cell>
+                            <cell>Lst.</cell>
+                            <cell><measure unit="£">6 1/32</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">5 12/16</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Comptoir Financier</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">6 1/32</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">5 13/16</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Parts de fondateurs</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">39 1/2</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Buidling Lands</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">5 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Delta and Upper Egypt</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">4 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Union Fonc.d'Egypte</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">6 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— 1/16</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Bank of Abyssinia</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Crédit Franco-Egyptien</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">3 5/8</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Société Eléctrique de la Basse-Egypte</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">5 3/16</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— 1/4</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Basse-Egypte</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Banco di Roma</cell>
+                            <cell>Fcs.</cell>
+                            <cell><measure unit="fcs">110 1/2</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Banque d' Orient</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">132 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— 1/2</measure></cell>
+                        </row>   
+                    </table>
+                    <p>SHARES NOT QUOTED IN ABOVE LIST</p>
+                    <table rows="18" cols="5" xml:id="deg-ta-shli03">
+                        <row>
+                            <cell>Corp. of Western Egypt</cell>
+                            <cell>Lst.</cell>
+                            <cell><measure unit="£">1 5/32</measure></cell>
+                            <cell>@</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>New Egyptian Co.</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">29/6 ex</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Land and General Trust</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">1 1/32</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Wardan Estate Co.</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">6 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>" " Foundateur</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">7 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Land Allotment Co.</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">3 1/2</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell> " " Foundateur</cell>
+                            <cell>P.T.</cell>
+                            <cell><measure unit="pt">110 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="pt">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Ciments d'Egypt</cell>
+                            <cell>Fcs.</cell>
+                            <cell><measure unit="fcs">69 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Egyptain Hotels</cell>
+                            <cell>Lst.</cell>
+                            <cell><measure unit="£">5 1/2</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Upper Egypt Hotels</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">4 3/8</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>National Hotels</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">3 3/8</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>" " Foundateur</cell>
+                            <cell>P.T.</cell>
+                            <cell><measure unit="pt">50 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="pt">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Menzaleh Canal Co.</cell>
+                            <cell>L.E.</cell>
+                            <cell><measure unit="le">4 1/2</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="le">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>" " Foundateur</cell>
+                            <cell>P.T.</cell>
+                            <cell><measure unit="pt">120 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="pt">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Agr. Indus. d'Egypt</cell>
+                            <cell>Fcs.</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="fcs">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Improvements Corpr.</cell>
+                            <cell>Lst.</cell>
+                            <cell><measure unit="£">4 3/4</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="£">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Port-Said Salt Associat.</cell>
+                            <cell>Shg.</cell>
+                            <cell><measure unit="shg">13/ ex</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="shg">— —</measure></cell>
+                        </row>
+                        <row>
+                            <cell>Estates Fondateur</cell>
+                            <cell>"</cell>
+                            <cell><measure unit="shg">10 —</measure></cell>
+                            <cell>"</cell>
+                            <cell><measure unit="shg">— —</measure></cell>
+                        </row>
+
+                    </table>
+                </div>
+        </body>
+    </text>
+</TEI>
