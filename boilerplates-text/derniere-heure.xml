@@ -21,20 +21,20 @@
             <sourceDesc>
                 <bibl>
                     <title>Egyptian Gazette</title>
-                    <date when="1905-07-12">12 July 1905</date>
+                    <date when="1905-07-13">13 July 1905</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <body>
-            <div type="article" xml:lang="fr" xml:id="deg-el-dehe1">
+            <div type="item" xml:lang="fr" xml:id="deg-el-dehe1">
                 <head>DERNIERE HEURE</head>
                 <p>(Clôture de la Bourse Khédiviale 1h. p.m.) </p>
                 <p>Cours de l’Association des Courtiers en Marchandises </p>
                 <table cols="5" xml:id="deg-ta-dehe1">
                     <row role="label">
-                        <cell>Coton F.G.F.Br.</cell>
+                        <cell cols="5">Coton F.G.F.Br.</cell>
                     </row>
                     <row>
                         <cell>Novembre</cell>
@@ -72,7 +72,7 @@
                         <cell> <measure unit="tal">— 9/16</measure></cell>
                     </row>
                     <row role="label">
-                        <cell>Graines de coton</cell>
+                        <cell cols="5">Graines de coton</cell>
                     </row>
                     <row>
                         <cell>N.-D.-J. </cell>
@@ -96,7 +96,7 @@
                         <cell><measure unit="tal">— 35/40</measure></cell>
                     </row>
                     <row role="label">
-                        <cell>Fèves-Saïdi</cell>
+                        <cell cols="5">Fèves-Saïdi</cell>
                     </row>
                     <row>
                         <cell>Sept-Oct.</cell>
