@@ -28,11 +28,11 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article" xml:lang="fr" xml:id="deg-el-pdco01">
+            <div type="item" xml:lang="fr" xml:id="deg-el-pdco01">
                 <head>PRIMES DES CONTRATS</head>
                 <table cols="6" xml:id="deg-ta-pdco01">
                     <row>
-                        <cell cols="6">"SIMPLE FACULTE"</cell>
+                        <cell role="label" cols="6">"SIMPLE FACULTE"</cell>
                     </row>
                     <row>
                         <cell>Coton</cell>
@@ -47,11 +47,11 @@
                         <cell>,, 3 mois</cell>
                         <cell>,,</cell>
                         <cell><measure unit="pt">2 20/40</measure></cell>
-                        <cell/>
+                        <cell>,,</cell>
                         <cell><measure unit="pt">2 30/40</measure></cell>
                     </row>
                     <row>
-                        <cell cols="6">"STELLAGE”</cell>
+                        <cell role="label" cols="6">"STELLAGE”</cell>
                     </row>
                     <row>
                         <cell>Coton</cell>
@@ -66,11 +66,11 @@
                         <cell>,, 3 mois</cell>
                         <cell>,,</cell>
                         <cell><measure unit="pt">5 —</measure></cell>
-                        <cell>"</cell>
+                        <cell>,,</cell>
                         <cell><measure unit="pt">5 1/4</measure></cell>
                     </row>
                     <row>
-                        <cell cols="6">"DOUBLE"</cell>
+                        <cell role="label" cols="6">"DOUBLE"</cell>
                     </row>
                     <row>
                         <cell>Coton</cell>
@@ -85,7 +85,7 @@
                         <cell>,, 3 mois</cell>
                         <cell>,,</cell>
                         <cell><measure unit="pt">1 3/4</measure></cell>
-                        <cell>"</cell>
+                        <cell>,,</cell>
                         <cell><measure unit="pt">1 35/40</measure></cell>
                     </row>
                 </table>
