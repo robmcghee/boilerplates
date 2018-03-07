@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Sucres template</title>
+                <editor>Laney Degroat</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-03-06">March 6, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1907-06-19">June 19, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" xml:lang="fr" xml:id="deg-el-sucr01">
+                    <head>SUCRES</head>
+                    <table rows="3" cols="4">
+                    <head>Visible Supply</head>
+                    <row role="label">
+                        <cell cols="2"/>
+                        <cell>1907</cell>
+                        <cell>1906</cell>
+                    </row>
+                    <row>
+                        <cell>Angleterre</cell>
+                        <cell>T.</cell>
+                        <cell><measure unit="ton">176,550</measure></cell>
+                        <cell><measure unit="ton">182,300</measure></cell>
+                    </row>
+                    <row>
+                        <cell>France</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="ton">600,840</measure></cell>
+                        <cell><measure unit="ton">656,700</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Allemagne</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="ton">830,170</measure></cell>
+                        <cell><measure unit="ton">1,001,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Hambourg</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="ton">115,260</measure></cell>
+                        <cell><measure unit="ton">162,740</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Autriche</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="ton">557,400</measure></cell>
+                        <cell><measure unit="ton">577,620</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Hollande</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="ton">28,200</measure></cell>
+                        <cell><measure unit="ton">65,900</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Belgique</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="ton">143,230</measure></cell>
+                        <cell><measure unit="ton">161,150</measure></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>T.</cell>
+                        <cell><measure unit="ton">2,451,650</measure></cell>
+                        <cell><measure unit="ton">2,807,410</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Etats-Unis</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="ton">396,000</measure></cell>
+                        <cell><measure unit="ton">353,880</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Cuba</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="ton">340,000</measure></cell>
+                        <cell><measure unit="ton">292,000</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Sous Voiles</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="ton">9,500</measure></cell>
+                        <cell><measure unit="ton">–</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Total</cell>
+                        <cell>T.</cell>
+                        <cell><measure unit="ton">3,197,150</measure></cell>
+                        <cell><measure unit="ton">3,453,290</measure></cell>
+                    </row>
+                    <row>
+                        <cell cols="2">Contre Tonnes</cell>
+                        <cell><measure unit="ton">2,647,160</measure></cell>
+                        <cell>pour 1905</cell>
+                    </row>
+                    <row>
+                        <cell cols="2">""</cell>
+                        <cell><measure unit="ton">3,000,490</measure></cell>
+                        <cell>,, 1904</cell>
+                    </row>
+                    <row>
+                        <cell cols="2">""</cell>
+                        <cell><measure unit="ton">3,232,610</measure></cell>
+                        <cell>,, 1903</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

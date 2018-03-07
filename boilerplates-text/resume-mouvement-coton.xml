@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article" scope="financial" xml:lang="fr" xml:id="deg-el-rmco01">
+            <div type="item" xml:lang="fr" xml:id="deg-el-rmco01">
                 <head>Resume Mouvement coton</head>
                 <p><hi rend="italic">depuis </hi><date when="1906-09-01"><hi rend="italic">le 1er
                             Septembre</hi></date></p>
