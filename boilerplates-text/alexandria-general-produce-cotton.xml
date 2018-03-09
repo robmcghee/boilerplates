@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Alexandria General Produce Association cotton template</title>
+                <editor>Jacob Baenen</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2018-03-06">March 6, 2018</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-03-01">1 March 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:lang="fr" xml:id="deg-el-agpc01">
+                    <head>Alexandria General Produce Association</head>
+                    <p>Les differences de prix pour livraison sur Contrats de coton ont été fixées
+                    comme suit:</p>
+                    <table>
+                        <row role="label">
+                            <cell cols="4"><hi rend="italic">Brown</hi></cell>
+                        </row>
+                        <row>
+                            <cell>Entre</cell>
+                            <cell>Fair et Fully Fair</cell>
+                            <cell>P.T.</cell>
+                            <cell><measure unit="P.T.">– –</measure></cell>
+                            </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell>Fully Fair et Good Fair</cell>
+                            <cell>,,</cell>
+                            <cell><measure unit="P.T.">– –</measure></cell>
+                             </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell>Good Fair et Fully Good Fair</cell>
+                            <cell>,,</cell>
+                            <cell><measure unit="P.T.">10 –</measure></cell>
+                           </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell>Fully Good Fair et Good</cell>
+                            <cell>,,</cell>
+                            <cell><measure unit="tal">15 –</measure></cell>
+                            </row>
+                        <row role="label">
+                            <cell cols="4"><hi rend="italic">Haute-Egypte et Fayoum</hi></cell>
+                        </row>
+                        <row>
+                            <cell>Entre</cell>
+                            <cell>Fair et Fully Fair</cell>
+                            <cell>P.T.</cell>
+                            <cell><measure unit="pt">– –</measure></cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell>Good Fair et Fully Good Fair</cell>
+                            <cell>,,</cell>
+                            <cell><measure unit="pt">17 1/2</measure></cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell>Fully Good Fair et Good</cell>
+                            <cell>,,</cell>
+                            <cell><measure unit="pt">17 1/2</measure></cell>
+                        </row>
+                    </table>
+            </div>
+        </body>
+    </text>
+</TEI>
