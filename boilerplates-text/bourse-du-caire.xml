@@ -29,7 +29,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article" xml:id="deg-el-bduc01" xml:lang="fr">
+            <div type="item" xml:id="deg-el-bduc01" xml:lang="fr">
                 <head>BOURSE DU CAIRE</head>
                 <p> Le Caire, le <date when="1907-03-28">28 Mars 1907</date>. </p>
                 <table cols="4" xml:id="deg-ta-bduc01">

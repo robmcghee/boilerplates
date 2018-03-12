@@ -28,7 +28,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="article" xml:lang="fr" xml:id="deg-el-tdex01">
+            <div type="item" xml:lang="fr" xml:id="deg-el-tdex01">
                 <head>TARIF D’EXPORTATION</head>
                 <p>pour le mois de <date>juillet 1906</date>.</p>
                 <table rows="23" cols="4" xml:id="deg-ta-tdex01">
