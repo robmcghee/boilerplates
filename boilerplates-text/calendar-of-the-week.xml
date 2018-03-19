@@ -22,6 +22,7 @@
             <sourceDesc>
                 <bibl>
                     <title>Calendar of the Week template</title>
+                    <date when="1905-07-12">July 12, 1905</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -29,13 +30,13 @@
     <text>
         <body>
             <div type="item" xml:id="deg-el-cotw01">
+                <head>CALENDAR OF THE WEEK.</head>
                 <table cols="3" xml:id="deg-ta-cotw01">
-                    <head>CALENDAR OF THE WEEK.</head>
-                    <head type="sub">(Coptic and Mohamedan.)</head>
+                    <head>(Coptic and Mohamedan.)</head>
                     <row>
                         <cell>Sun.</cell>
                         <cell>9</cell>
-                        <cell></cell>
+                        <cell/>
                     </row>
                     <row>
                         <cell>Mon.</cell>
