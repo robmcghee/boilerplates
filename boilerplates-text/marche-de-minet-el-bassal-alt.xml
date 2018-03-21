@@ -68,88 +68,175 @@
                         >1011</measure> contre même jour l’année précédente cantars <measure
                         unit="cantar">156</measure>
                 </p>
-                <p><hi rend="italic">Grains de coton</hi>.—Sans changement</p>
-                <table  xml:id="deg-ta-mmeb02">
+                <table xml:id="deg-ta-mmeb02">
+                    <row>
+                        <cell><hi rend="italic">Grains de coton</hi>.—</cell>
+                        <cell cols="5">Sans changement</cell>
+                    </row>
                     <row>
                         <cell/>
-                        <cell>Disponible</cell>
-                        <cell>Ticket</cell>
+                        <cell cols="2">Disponible</cell>
+                        <cell cols="3">Ticket</cell>
                     </row>
                     <row>
                         <cell>Mit-Afifi—</cell>
-                        <cell><measure unit="pt">58</measure></cell>
-                        <cell>Rien</cell>
+                        <cell cols="2"><measure unit="pt">58</measure></cell>
+                        <cell cols="3">Rien</cell>
                     </row>
                     <row>
                         <cell>Haute-Egypte.—</cell>
-                        <cell><measure unit="pt">56 1/2</measure></cell>
-                        <cell>Rien</cell>
+                        <cell cols="2"><measure unit="pt">56 1/2</measure></cell>
+                        <cell cols="3">Rien</cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="italic">Blés</hi>.—</cell>
+                        <cell cols="5">Très fermes</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="italic">Qualité Saïdi</hi>.—</cell>
+                        <cell>Cond. Saha </cell>
+                        <cell>P.T. </cell>
+                        <cell><measure unit="pt">—</measure>
+                        </cell>
+                        <cell>à</cell>
+                        <cell>
+                            <measure unit="pt">—</measure></cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="italic">,, Béhéra</hi>: </cell>
+                        <cell> ,, ,, </cell>
+                        <cell> ,, </cell>
+                        <cell><measure unit="pt">110</measure></cell>
+                        <cell> à </cell>
+                        <cell><measure unit="pt">120</measure></cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="italic">Feves</hi>.—</cell>
+                        <cell cols="5">En baisse</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="italic">Saïdi</hi></cell>
+                        <cell cols="5">
+                            <measure unit="pt">95</measure></cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="italic">Fayoum</hi> : </cell>
+                        <cell>disponible : </cell>
+                        <cell cols="4"><measure unit="pt">94</measure></cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rend="italic">Qualitè Saïdi</hi>. </cell>
+                        <cell>Cond. Saha </cell>
+                        <cell>P.T. </cell>
+                        <cell><measure unit="pt">108</measure></cell>
+                        <cell> à </cell>
+                        <cell><measure unit="pt">114</measure>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="italic">Lentilles</hi>.—</cell>
+                        <cell cols="5">Très rares </cell>
+                    </row>
+                    <row>
+                        <cell>Disponible: </cell>
+                        <cell cols="5">Rien</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell> Cond. Saha </cell>
+                        <cell>P.T. </cell>
+                        <cell><measure unit="pt">120</measure></cell>
+                        <cell> à </cell>
+                        <cell><measure unit="pt">130</measure>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="italic">Orges</hi>.—</cell>
+                        <cell cols="5">Soutenues </cell>
+                    </row>
+                    <row>
+                        <cell>,,</cell>
+                        <cell>Cond. Saha </cell>
+                        <cell>P.T. </cell>
+                        <cell><measure unit="pt">61</measure></cell>
+                        <cell> à </cell>
+                        <cell><measure unit="pt">63</measure>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="italic">Maïs</hi>.—</cell>
+                        <cell cols="5">Sans changement </cell></row>
+                    <row>
+                        <cell>Disponible :</cell><cell cols="5"> Rien </cell>
+                    </row>
+                    <row>
+                        <cell>,,</cell>
+                        <cell>Cond. Saha </cell>
+                        <cell>P.T. </cell>
+                        <cell><measure unit="pt">100</measure></cell>
+                        <cell> à </cell>
+                        <cell><measure unit="pt">110</measure></cell>
                     </row>
                 </table>
-                <p><hi rend="italic">Blés</hi>.—Très fermes</p>
-                <p><hi rend="italic">Qualité Saïdi</hi>.—Cond. Saha P.T. <measure unit="pt"
-                        >—</measure> à <measure unit="pt">—</measure></p>
-                <p><hi rend="italic">" Béhéra</hi>: " " " <measure unit="pt">110</measure> à
-                        <measure unit="pt">120</measure></p>
-                <p><hi rend="italic">Feves</hi>.—En baisse</p>
-                <p><hi rend="italic">Saïdi</hi>
-                    <measure unit="pt">95</measure></p>
-                <p><hi rend="italic">Fayoum</hi> : disponible : <measure unit="pt">94</measure></p>
-                <p><hi rend="italic">Qualitè Saïdi</hi>. Cond. Saha P.T. <measure unit="pt"
-                        >108</measure> à <measure unit="pt">114</measure></p>
-                <p><hi rend="italic">Lentilles</hi>.—Très rares</p>
-                <p>Disponible: Rien</p>
-                <p> Cond. Saha P.T. <measure unit="pt">120</measure> à <measure unit="pt"
-                        >130</measure></p>
-                <p><hi rend="italic">Orges</hi>.—Soutenues</p>
-                <p>" Cond.Saha P.T. <measure unit="pt">61</measure> à <measure unit="pt"
-                        >63</measure></p>
-                <p><hi rend="italic">Maïs</hi>.—Sans changement</p>
-                <p>Disponible : Rien</p>
-                <p>" Cond. Saha P.T. <measure unit="pt">100</measure> à <measure unit="pt"
-                        >110</measure></p>
                 <table rows="4" cols="3" xml:id="deg-ta-mmeb03">
                     <row role="label">
-                        <cell>Exportation</cell>
-                        <cell>du <date when="1905-07-11">11 juil.</date></cell>
-                        <cell>depuis le <date when="1905-07-07">7 juil.</date></cell>
+                        <cell cols="3">Exportation du <date when="1905-07-11">11 juil.</date></cell>
+                        <cell cols="2">depuis le <date when="1905-07-07">7 juil.</date></cell>
                     </row>
                     <row>
                         <cell>Coton</cell>
-                        <cell>Bal. <measure unit="balles">616</measure></cell>
-                        <cell>Bal. <measure unit="balles">10298</measure></cell>
+                        <cell>Bal.</cell>
+                        <cell><measure unit="balles">616</measure></cell>
+                        <cell>Bal.</cell>
+                        <cell><measure unit="balles">10298</measure></cell>
                     </row>
                     <row>
                         <cell>Gr. de cot.</cell>
-                        <cell>Ard. <measure unit="ard">2962</measure></cell>
-                        <cell>Ard. <measure unit="ard">8952</measure></cell>
+                        <cell>Ard.</cell>
+                        <cell><measure unit="ard">2962</measure></cell>
+                        <cell>Ard.</cell>
+                        <cell><measure unit="ard">8952</measure></cell>
                     </row>
                     <row>
                         <cell>Fèves</cell>
-                        <cell>" <measure unit="ard">6595</measure></cell>
-                        <cell>" <measure unit="ard">7461</measure></cell>
+                        <cell> ,, </cell>
+                        <cell><measure unit="ard">6595</measure></cell>
+                        <cell> ,, </cell>
+                        <cell><measure unit="ard">7461</measure></cell>
                     </row>
                 </table>
                 <table rows="4" cols="3" xml:id="deg-ta-mmeb04">
                     <head>Exportations probables de la semaine:</head>
                     <row role="label">
                         <cell/>
-                        <cell>1905</cell>
-                        <cell>1904</cell>
+                        <cell cols="2">1905</cell>
+                        <cell cols="2">1904</cell>
                     </row>
                     <row>
                         <cell>Coton</cell>
-                        <cell>Bal. <measure unit="balles">15,000</measure></cell>
+                        <cell>Bal. </cell>
+                        <cell><measure unit="balles">15,000</measure></cell>
+                        <cell></cell>
                         <cell><measure unit="balles">5,900</measure></cell>
                     </row>
                     <row>
                         <cell>Graines de coton</cell>
-                        <cell>Ard. <measure unit="ard">25,000</measure></cell>
-                        <cell>Ard. <measure unit="ard">34,000</measure></cell>
+                        <cell>Ard. </cell>
+                        <cell><measure unit="ard">25,000</measure></cell>
+                        <cell>Ard. </cell>
+                        <cell><measure unit="ard">34,000</measure></cell>
                     </row>
                     <row>
                         <cell>Fèves</cell>
-                        <cell>" <measure unit="ard">16,000</measure></cell>
+                        <cell> ,, </cell>
+                        <cell><measure unit="ard">16,000</measure></cell>
+                        <cell> ,, </cell>
                         <cell><measure unit="ard">2,000</measure></cell>
                     </row>
                 </table>
@@ -236,7 +323,7 @@
                 </table>
                 <div type="item">
                     <head>ARRIVAGES</head>
-                    <dateline>de <date when="1905-07-12">mercredi 12 juillet 1905</date></dateline>
+                    <dateline>du <date when="1905-07-12">mercredi 12 juillet 1905</date></dateline>
                     <p>Documents de l’ “Alexandria General Produce Association.”</p>
                     <table rows="9" cols="4"  xml:id="deg-ta-mmeb07">
                         <row role="label">
