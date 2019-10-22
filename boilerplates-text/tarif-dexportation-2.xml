@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">Tarif d'exportation template</title>
+                <editor>Peyton Smith</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2019-10-21">October 21, 2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1907-10-17">October 17, 1907</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="item" xml:lang="fr" xml:id="deg-el-tdex02">
+                <head>Direction Generale des DOUANES EGYPTIENNES</head>
+                <p>Tarif D'Exportation pour le mois d'<date>octobre 1907</date></p>
+                <table rows="23" cols="3" xml:id="deg-ta-tdex02">
+                    <row role="label">
+                        <cell>DESIGNATION</cell>
+                        <cell>Unité</cell>
+                        <cell>Prix du mois courant L.E.M.</cell>
+                    </row>
+                    <row>
+                        <cell>Coton</cell>
+                        <cell>cantar</cell>
+                        <cell><measure unit="LE M">3 330</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Graines de Coton</cell>
+                        <cell>ardeb</cell>
+                        <cell><measure unit="LE M">0 665</measure></cell>
+                    </row>
+                    <row>
+                        <cell>,, ,, Harari</cell>
+                        <cell>cantar</cell>
+                        <cell><measure unit="LE M">0 275</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Blés Saidi et Béhéra</cell>
+                        <cell>ardeb</cell>
+                        <cell><measure unit="LE M">0 990</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Fèves Said et Béhéra</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="LE M">0 950</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Lentilles</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="LE M">1 035</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Mais</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="LE M">0 720</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Orge</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="LE M">0720</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Pois chiches</cell>
+                        <cell>ardeb</cell>
+                        <cell><measure unit="LE M">1 500</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Petits pois</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="LE M">1 200</measure></cell>
+                    </row>
+                    <row>
+                        <cell>,, ,, concassés</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="LE M">1 300</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Helbé</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="LE M">1 500</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Riz (avec emb.)</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="LE M">2 300</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Riz en paille.</cell>
+                        <cell>kilo</cell>
+                        <cell><measure unit="LE M">0 6</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Riz brut</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="LE M">0 7</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Farine No. 1 à 3 (80 okes)</cell>
+                        <cell>sac</cell>
+                        <cell><measure unit="LE M">1 –</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Sucre blanc (en pains)</cell>
+                        <cell>cantar</cell>
+                        <cell><measure unit="LE M">0 600</measure></cell>
+                    </row>
+                    <row>
+                        <cell>,, ,, (grand morc.)</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="LE M">0 540</measure></cell>
+                    </row>
+                    <row>
+                        <cell>,, ,, (en poudre) No. 1</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="LE M">0 440</measure></cell>
+                    </row>
+                    <row>
+                        <cell>,, ronge (Farchout) en pains</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="LE M">0 260</measure></cell>
+                    </row>
+                    <row>
+                        <cell>,, ,, ,, en poudre</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="LE M">0 240</measure></cell>
+                    </row>
+                    <row>
+                        <cell>Cotons Afrité et écart pour Turquie</cell>
+                        <cell>,,</cell>
+                        <cell><measure unit="LE M">1 500</measure></cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>
